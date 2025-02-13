@@ -14,12 +14,12 @@ authors:
 superuser: True
 
 # Role/position
-role: Associate Professor at Instituto Superior Técnico
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
   - name: Instituto Superior Técnico
-    url: ''
+    url: 'https://scholar.tecnico.ulisboa.pt/authors/2c2ec4149238af77e2273c3a9f03e4e5262abf2e8766bb9164a2a80e032f8bc7/records'
   - name: Delft University of Technology
     url: 'https://www.tudelft.nl/en/staff/s.teixeiradefreitas/?cHash=f42287d04d5c8e0ae842b1c43b4ce59a'
 
@@ -27,7 +27,8 @@ organizations:
 bio: My research interests in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability.
 
 interests:
-  - Mechanics of interfaces and layered materials
+  - Mechanics of layered materials
+  - Tougening interfaces
   - Climate-neutral structures
   - Adhesive joints
 
@@ -48,7 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'S.TeixeiraDeFreitas@tudelft.nl'
-  - icon: linked-in
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
   - icon: google-scholar
@@ -69,4 +70,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Sofia is Associate Professor specializing in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability
+Sofia is Associate Professor at Instituto Superior Técnico specializing in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability.
