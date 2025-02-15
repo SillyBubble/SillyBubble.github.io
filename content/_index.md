@@ -5,7 +5,7 @@ date: 2025-02-12
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Interact Research Lab
