@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: "My research interests in 3D printing and bio-inspired toughening designs."
 
 interests:
   - Fracture mechanics
@@ -65,6 +65,20 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Postdoc Researcher
+
+section:
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '1'
 ---
 
 Charline is a postdoc researcher in fracture mechanics of adhesive joints.
