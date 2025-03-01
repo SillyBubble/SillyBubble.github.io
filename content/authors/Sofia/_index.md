@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Sofia is Associate Professor at Instituto Superior Técnico specializing in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability.
