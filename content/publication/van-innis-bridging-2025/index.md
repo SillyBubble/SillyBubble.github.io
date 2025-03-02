@@ -1,7 +1,7 @@
 ---
 title: Bridging in co-cured composite joints
 authors:
-- Charline Van Innis
+- Charline
 - Michal K. Budzik
 - Thomas Pardoen
 date: '2025-03-01'
