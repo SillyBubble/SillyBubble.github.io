@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'c.s.f.m.g.vaninnis@tudelft.nl'
+    link: 'mailto:c.s.f.m.g.vaninnis@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/charline-van-innis-30732b1a2/

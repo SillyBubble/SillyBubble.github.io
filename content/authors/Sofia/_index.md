@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'S.TeixeiraDeFreitas@tudelft.nl'
+    link: 'mailto:S.TeixeiraDeFreitas@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl

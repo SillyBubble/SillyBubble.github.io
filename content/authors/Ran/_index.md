@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'r.tao@tudelft.nl'
+    link: 'mailto:r.tao@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ran-tao-ab09856b/

@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'rosemere.raal@gmail.com'
+    link: 'mailto:rosemere.raal@gmail.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rosemere-de-araujo-alves-lima/
