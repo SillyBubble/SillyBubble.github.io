@@ -2,11 +2,11 @@
 title: "Acoustic Emission Approach for Identifying Fracture Mechanisms in Composite
   Bonded Joints: A Study on Varying Substrate's Stacking Sequence"
 authors:
-- R. A. A. Lima
-- R. Tao
+- Rose
+- Ran
 - A. Bernasconi
 - M. Carboni
-- S. Teixeira de Freitas
+- Sofia
 date: '2024-08-01'
 publishDate: '2025-03-01T22:49:59.988885Z'
 publication_types:

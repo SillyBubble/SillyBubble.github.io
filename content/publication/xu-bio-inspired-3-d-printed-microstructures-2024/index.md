@@ -1,9 +1,9 @@
 ---
 title: Bio-Inspired 3d-Printed Microstructures For Toughening Bio-Based Epoxy Matrix
 authors:
-- Z. Xu
-- Ran Tao
-- S. De Freitas
+- Zhiyuan
+- Ran
+- Sofia
 date: '2024-01-01'
 publishDate: '2025-03-02T10:44:22.149548Z'
 publication_types:

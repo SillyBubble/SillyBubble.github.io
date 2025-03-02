@@ -4,7 +4,7 @@ title: 'How Pure Mode I Can Be Obtained in Bi-Material Bonded DCB Joints: A Long
 authors:
 - Wandong Wang
 - Romina Lopes Fernandes
-- Sofia Teixeira De Freitas
+- Sofia
 - Dimitrios Zarouchas
 - Rinze Benedictus
 date: '2018-11-01'

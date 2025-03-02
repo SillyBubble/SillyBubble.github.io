@@ -3,7 +3,7 @@ title: 'Design of Adhesively Bonded Lap Joints with Laminated CFRP Adherends: Re
   Challenges and New Opportunities for Aerospace Structures'
 authors:
 - J. Kupski
-- S. Teixeira De Freitas
+- Sofia
 date: '2021-07-01'
 publishDate: '2025-03-01T22:49:59.982363Z'
 publication_types:

@@ -5,7 +5,7 @@ authors:
 - Romina Lopes Fernandes
 - Michal K. Budzik
 - Rinze Benedictus
-- Sofia Teixeira De Freitas
+- Sofia
 date: '2021-06-01'
 publishDate: '2025-03-01T22:50:00.004214Z'
 publication_types:

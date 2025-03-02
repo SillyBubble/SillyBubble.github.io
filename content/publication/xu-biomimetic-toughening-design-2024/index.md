@@ -2,7 +2,7 @@
 title: 'Biomimetic Toughening Design of 3D-printed Polymeric Structures: Enhancing Toughness through Sacrificial Bonds and Hidden Lengths'
 authors:
 - Zhiyuan
-- Ran Tao
+- Ran
 - Kunal Masania
 - Sofia
 date: '2024-11-01'

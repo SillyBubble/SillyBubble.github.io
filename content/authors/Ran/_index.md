@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rosemere de Araujo Alves Lima
+title: Ran Tao
 
 # Full name (for SEO)
-first_name: Rosemere
-last_name: de Araujo Alves Lima
+first_name: Ran
+last_name: Tao
 
 # Username (this should match the folder name)
 authors:
-  - Rose
+  - Ran
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,17 +27,15 @@ bio: My research interests in 3D printing and bio-inspired toughening designs.
 interests:
   - Adhesive joints
   - Composites
-  - SHM
-  - Acoustic emission
 
 education:
   courses:
-    - course: MSc in Mechanical Engineering and Material Technology
-      institution: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
-      year: 2018
+    - course: MSc in Mechanical Engineering
+      institution: KAUST
+      year: 2015
     - course: PhD in Mechanical Engineering
-      institution: Politecnico di Milano
-      year: 2024
+      institution: KAUST
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,13 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'rosemere.raal@gmail.com'
+    link: 'r.tao@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/rosemere-de-araujo-alves-lima/
+    link: https://www.linkedin.com/in/ran-tao-ab09856b/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=WZHrskQAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=zh-CN&user=yJYiGtsAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc Researcher
+  - Alumni
 ---
 
-Rosemere is a postdoc researcher in SHM and toughening strategies of adhesive joints.
+Ran is a postdoc researcher in toughening strategies of adhesive joints.

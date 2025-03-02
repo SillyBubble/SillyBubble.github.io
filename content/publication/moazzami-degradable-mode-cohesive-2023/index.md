@@ -7,7 +7,7 @@ authors:
 - M. R. Ayatollahi
 - J. A. Poulis
 - L. F. M. da Silva
-- S. Teixeira De Freitas
+- Sofia
 date: '2023-10-01'
 publishDate: '2025-03-01T22:50:00.017669Z'
 publication_types:

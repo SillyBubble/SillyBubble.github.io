@@ -6,7 +6,7 @@ authors:
 - Rosemere de Araujo Alves Lima
 - Fabrizio Moroni
 - Alessandro Pirondi
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2025-02-01'
 publishDate: '2025-03-01T22:49:59.974931Z'
 publication_types:

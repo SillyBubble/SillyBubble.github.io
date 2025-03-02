@@ -2,12 +2,12 @@
 title: Uncovering the Toughening Mechanisms of Bonded Joints through Tailored CFRP
   Layup
 authors:
-- R. A. A. Lima
-- R. Tao
+- Rose
+- Ran
 - A. Bernasconi
 - M. Carboni
 - N. Carrere
-- S. Teixeira de Freitas
+- Sofia
 date: '2023-08-01'
 publishDate: '2025-03-01T22:49:59.996711Z'
 publication_types:

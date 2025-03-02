@@ -3,7 +3,7 @@ title: Susceptor-Assisted Induction Curing Behaviour of a Two Component Epoxy Pa
   Adhesive for Aerospace Applications
 authors:
 - C. Severijns
-- S. Teixeira De Freitas
+- Sofia
 - J.A. Poulis
 date: '2017-06-01'
 publishDate: '2025-03-01T22:50:00.041506Z'

@@ -2,7 +2,7 @@
 title: Parametric Study on the Interface Layer of Renovation Solutions for Orthotropic
   Steel Bridge Decks
 authors:
-- Sofia Teixeira De Freitas
+- Sofia
 - Henk Kolstein
 - Frans Bijlaard
 date: '2012-02-01'

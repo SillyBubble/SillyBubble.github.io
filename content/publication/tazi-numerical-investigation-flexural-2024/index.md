@@ -4,7 +4,7 @@ title: Numerical Investigation Of The Flexural Behavior Of Steel Plates Reinforc
 authors:
 - M. A. Tazi
 - M. Jebli
-- Sofia Freitas
+- Sofia
 - P. Casari
 - Silvio De Barros
 date: '2024-01-01'

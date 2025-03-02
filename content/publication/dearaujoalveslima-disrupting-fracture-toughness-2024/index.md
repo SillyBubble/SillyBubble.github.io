@@ -2,9 +2,9 @@
 title: Disrupting Fracture Toughness Of Adhesively Bonded Joints By Tailoring Composite
   Substrates
 authors:
-- R. de Araujo Alves Lima
-- R. Tao
-- S. De Freitas
+- Rose
+- Ran
+- Sofia
 date: '2024-01-01'
 publishDate: '2025-03-02T10:44:22.124991Z'
 publication_types:
