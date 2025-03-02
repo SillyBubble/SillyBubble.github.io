@@ -11,7 +11,7 @@ authors:
   - Charline
 
 # Is this the primary user of the site?
-superuser: false
+superuser: falses
 
 # Role/position
 role: Postdoc Researcher
