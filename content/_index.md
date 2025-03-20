@@ -13,13 +13,13 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Tailoring Composite Substrates
+        content: 'Improve damage tolerance of adhesively bonded joints'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Biomimetic Toughening Structures
+        content: 'Spider silk inspired 3D-printing polymer structures'
         align: right
         background:
           image:
@@ -42,15 +42,16 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: ../authors/Zhiyuan
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
   - block: hero
     content:
       title: ""
