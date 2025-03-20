@@ -1,0 +1,40 @@
+---
+title: 'Failure analysis of adhesively-bonded metal-skin-to-composite-stiffener: Effect
+  of temperature and cyclic loading'
+authors:
+- Sofia Teixeira de Freitas
+- Jos Sinke
+date: '2017-01-01'
+publishDate: '2025-03-20T07:54:44.416773Z'
+publication_types:
+- article-journal
+publication: '*Composite Structures*'
+doi: 10.1016/j.compstruct.2017.01.027
+abstract: 'The aim of this research is to analyse the failure of a Fiber Metal Laminate
+  (FML) skin adhesively bonded to a Carbon Fiber Reinforced Polymer (CFRP) stiffener,
+  under quasi-static loading at different environmental temperatures (−55 °C, Room
+  Temperature RT and +100 °C) and under fatigue loading at RT. This bonded joint was
+  tested using stiffener pull-off tests, which is a typical setup used to simulate
+  full-scale components subject to out-of-plane loading. The failure sequence for
+  all test conditions consist of: (1) damage initiation at the noodle of the CFRP
+  stiffener; (2) damage propagation by delamination from the noodle to the stiffener
+  foot; (3) detachment of the stiffener from the skin. Increasing the temperature,
+  decreases the joint stiffness (40% when compared to RT) and decreasing the temperature
+  decreases the maximum load (50% when compared to RT). The fatigue life initiation
+  of the joint presents a very large scatter but the fatigue life propagation presents
+  more stable results. The fatigue threshold (no damage) is reached at approximately
+  30% of the maximum load level. The fracture surfaces indicate a predominant inter
+  and intra-laminar failure of the composite under mixed mode I/II. The CFRP stiffener
+  is the weakest link of the bonded FML-skin-to-CFRP-stiffener both for static and
+  fatigue loading.'
+tags:
+- 'Keywords: Adhesive bonding'
+- composite-to-aluminium joints
+- fatigue
+- skin-to-stiffener connection
+- thermal loading
+links:
+- name: URL
+  url: 
+    http://www.scopus.com/inward/record.url?eid=2-s2.0-85010754863&partnerID=MN8TOARS
+---
