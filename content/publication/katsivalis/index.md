@@ -3,11 +3,11 @@ title: Analysis of the damage mechanisms of adhesively bonded thin tow-based dis
   composites
 authors:
 - I Katsivalis
-- R A A Lima
+- Rosemere
 - F Moreau
 - L E Asp
 - S Teixeira De Freitas
-date: -01-01
+date: 2025-01-01
 publishDate: '2025-03-20T07:54:44.606027Z'
 publication_types:
 - article-journal
