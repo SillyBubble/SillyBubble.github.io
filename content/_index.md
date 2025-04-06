@@ -59,6 +59,8 @@ sections:
         filename: welcome.jpg
       text: >
         The **INTERACT Research Lab** focuses on studying the structural integrity of interfaces and layered materials. Our research aims to understand failure mechanisms, improve durability, and develop innovative solutions to enhance material performance.  
+      background:
+        color: '#FFFFFF'
 
   - block: markdown
     content:

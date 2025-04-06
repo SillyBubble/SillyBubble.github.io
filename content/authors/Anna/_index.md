@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Anna Ioannidou-Kati
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Anna
+last_name: Ioannidou-Kati
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Anna
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
