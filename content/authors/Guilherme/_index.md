@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Guilherme Teixeira
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Guilherme
+last_name: Teixeira
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Guilherme
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
+  - name: Instituto Superior Tecnico
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ bio: My research interests in 3D printing and bio-inspired toughening designs.
 
 interests:
   - 3D print
-  - Bio-inspired design
+  - Biobased sandwich structures
 
 education:
   courses:
@@ -38,16 +38,16 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:Z.Xu-8@tudelft.nl'
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Master Student
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Guilherme is a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.
