@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Research
 date: 2025-03-02
 
 type: landing
@@ -8,14 +8,24 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
+      - title: Tailoring Composite Substrates
+        content: 'Improve damage tolerance of adhesively bonded joints'
+        align: left
         background:
           image:
-            filename: coders.jpg
+            filename: DCB.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.6
+          position: right
+          color: '#666'
+      - title: Adhesively bonded parts of wind blades
+        content: 'Reotech conference 2025'
+        align: left
+        background:
+          image:
+            filename: Adhesively bonded parts of wind blades_Reotech conference 2025.jpg
+            filters:
+              brightness: 0.6
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -23,19 +33,19 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: contact.svg
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: Biomimetic Toughening Structures
+        content: 'Spider silk inspired 3D-printing polymer structures'
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome.svg
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           color: '#333'
         link:

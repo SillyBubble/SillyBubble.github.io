@@ -13,39 +13,39 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome.svg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Tailoring Composite Substrates
-        content: 'Improve damage tolerance of adhesively bonded joints'
+      - title: Toughening adhesive joints
+        content: 'Extrinsic bridging toughening mechanism...'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: DCB_micro CT.svg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Biomimetic Toughening Structures
-        content: 'Spider silk inspired 3D-printing polymer structures'
-        align: right
+      - title: Structure Health Monitoring
+        content: 'Real time monitoring the damage...'
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: DCB_bi-material_with acoustic emission sensors.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../authors/Zhiyuan
+          icon: person
+          icon-pack: fas
+          text: Explore it!
+          url: /author/rosemere-de-araujo-alves-lima/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: '300px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: false
@@ -56,11 +56,13 @@ sections:
     content:
       title: ""
       image:
-        filename: welcome.jpg
+        filename: welcome.svg
       text: >
         The **INTERACT Research Lab** focuses on studying the structural integrity of interfaces and layered materials. Our research aims to understand failure mechanisms, improve durability, and develop innovative solutions to enhance material performance.  
+    design:
       background:
         color: '#FFFFFF'
+        text_color_light: false
 
   - block: markdown
     content:
