@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Michele Guilino
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Michele
+last_name: Guilino
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Michele
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,24 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
+  - name: University of Parma
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: My research interests in additive manufacturing of co-bonded CFRP/metallic joints.
 
 interests:
-  - 3D print
-  - Bio-inspired design
+  - Additive manufacturing
+  - Metallic joints
 
 education:
   courses:
-    - course: MSc in Civil Engineering
-      institution: Delft University of Technology
-      year: 2021
+    - course: MSc in Mechanical Engineering
+      institution: University of Bologna
+      year: 2020
+    - course: BSc in Mechanical Engineering
+      institution: University of Bologna
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,13 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
+    link: 'mailto:michele.gulino@unipr.it'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
+    link: https://www.linkedin.com/in/michele-gulino-7577b3151/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+    link: https://scholar.google.nl/citations?hl=en&user=pttNaBsAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +69,5 @@ user_groups:
   - PhD Candidate
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Michele is a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded
+Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.
