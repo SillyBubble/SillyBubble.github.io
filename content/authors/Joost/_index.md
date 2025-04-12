@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Joost de Jong
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Joost
+last_name: de Jong
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Joost
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -32,22 +32,22 @@ education:
   courses:
     - course: MSc in Civil Engineering
       institution: Delft University of Technology
-      year: 2021
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:Z.Xu-8@tudelft.nl'
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Alumni
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Joost was a MSc student co-supervised by Sofia, working on *Bonded FRP-steel deck-to-girder connections: renovation of movable bridges*.

@@ -9,16 +9,16 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        Find it interesting to working with composite and bonded structures? Reach out to us!
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Av. Rovisco Pais 1
+        city: 1049-001 Lisbon
+        # region: Lisbon
+        # postcode: '1170-110'
+        country: Portugal
+        country_code: PT
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
@@ -26,7 +26,7 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: contact.svg
           filters:
             brightness: 1
           parallax: false

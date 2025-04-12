@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Marcelo Cali
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Marcelo
+last_name: Cali
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Marcelo
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,24 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
+  - name: ISAE-Supaero
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: My research interests in machine learning algorithms for the analysis of bonded joints.
 
 interests:
-  - 3D print
-  - Bio-inspired design
+  - Machine learning
+  - Adhesive joints
 
 education:
   courses:
-    - course: MSc in Civil Engineering
-      institution: Delft University of Technology
-      year: 2021
+    - course: MSc LM, Aerospace, Aeronautical and Astronautical Engineering
+      institution: University of Naples Federico II
+      year: 2023
+    - course: BSc in Aerospace, Aeronautical and Astronautical/Space Engineering
+      institution: University of Naples Federico II
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,13 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
+    link: 'mailto:marcello.cali@isae-supaero.fr'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+    link: https://www.linkedin.com/in/marcello-cali/?locale=it_IT
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Marcello-Cali
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +72,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Marcelo is a PhD candidate co-supervised by Sofia, working on *Machine Learning algorithms for the analysis of adhesively bonded joints*.
