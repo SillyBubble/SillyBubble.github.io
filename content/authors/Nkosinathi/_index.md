@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Nkosinathi Peter
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Nkosinathi
+last_name: Peter
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Nkosinathi
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
+  - name: Instituto Superior
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
