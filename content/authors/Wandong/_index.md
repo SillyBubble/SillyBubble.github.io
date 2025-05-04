@@ -1,53 +1,59 @@
 ---
 # Display name
-title: Zhiyuan Xu
+title: Wandong Wang
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Xu
+first_name: Wandong
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Zhiyuan
+  - Wandong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoc Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
+  - name: Northwestern Polytechnical University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: My research interests in fatigue properties of Ti-CFRP bonded joints.
 
 interests:
-  - 3D print
-  - Bio-inspired design
+  - Fatigue properties
+  - Metal-CFRP bonded joints
 
 education:
   courses:
-    - course: MSc in Civil Engineering
+    - course: PhD in Aerospace Engineering
       institution: Delft University of Technology
-      year: 2021
+      year: 2017
+    - course: MSc in Fatigue of Metallic Structures
+      institution: Beihang University
+      year: 2012
+    - course: BSc in Aircraft Design
+      institution: Northwestern Polytechnical University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:Z.Xu-8@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
+    link: https://www.linkedin.com/in/wandong-wang-785346a7/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+    link: https://scholar.google.nl/citations?user=ED3slLIAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Alumni
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Wandong was a Postdoc researcher co-supervised by Sofia, working in fatigue and durability of Ti-CFRP bonded joints.
