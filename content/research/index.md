@@ -28,18 +28,18 @@ sections:
               brightness: 0.6
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Biomimetic Toughening Structures
+        content: 'Spider silk inspired 3D-printing polymer structures'
         align: left
         background:
           image:
-            filename: contact.svg
+            filename: Zhiyuan-OC.png
             filters:
               brightness: 0.6
           position: center
-          color: '#555'
-      - title: Biomimetic Toughening Structures
-        content: 'Spider silk inspired 3D-printing polymer structures'
+          color: '#333'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
@@ -47,7 +47,7 @@ sections:
             filters:
               brightness: 0.6
           position: center
-          color: '#333'
+          color: '#555'
         link:
           icon: graduation-cap
           icon_pack: fas
