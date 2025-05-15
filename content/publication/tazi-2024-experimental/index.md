@@ -2,11 +2,11 @@
 title: Experimental evaluation of interface adhesion of a flax fiber composite patch
   with epoxy and polyurethane adhesives for the reinforcement of steel structures
 authors:
-- Mohamed Amine Tazi
-- Rosemere de Araujo Alves Lima
+- Amine
+- Rose
 - Enio Henrique Pires da Silva
 - Mouad Jebli
-- Sofia Teixeira De Freitas
+- Sofia
 - Pascal Casari
 - Silvio de Barros
 date: '2024-01-01'

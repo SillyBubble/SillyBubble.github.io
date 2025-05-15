@@ -3,7 +3,7 @@ title: Analysis of the damage mechanisms of adhesively bonded thin tow-based dis
   composites
 authors:
 - I. Katsivalis
-- Rosemere
+- Rose
 - F. Moreau
 - L. E. Asp
 - Sofia

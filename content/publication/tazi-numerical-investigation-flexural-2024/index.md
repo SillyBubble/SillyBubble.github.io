@@ -2,7 +2,7 @@
 title: Numerical Investigation Of The Flexural Behavior Of Steel Plates Reinforced
   With Hybrid Flax/Carbon Composite Patches
 authors:
-- M. A. Tazi
+- Amine
 - M. Jebli
 - Sofia
 - P. Casari
