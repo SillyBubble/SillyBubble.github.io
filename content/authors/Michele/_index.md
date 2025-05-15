@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Co-supervised PhD Candidate
 
 # Organizations/Affiliations
 organizations:

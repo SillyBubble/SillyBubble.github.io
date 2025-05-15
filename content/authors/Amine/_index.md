@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate (co-supervised with CESI-France)
 
 # Organizations/Affiliations
 organizations:

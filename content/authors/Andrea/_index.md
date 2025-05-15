@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Visiting PhD Candidate
 
 # Organizations/Affiliations
 organizations:
