@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-supervised PhD Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Alumni
 ---
 
 Michele is a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded

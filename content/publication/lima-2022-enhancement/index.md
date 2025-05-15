@@ -2,14 +2,13 @@
 title: Enhancement of mode I fracture toughness of adhesively bonded secondary joints
   using layup patterning of CFRP
 authors:
-- R Lima
+- Rose
 - Akshit Oswal
-- N Roux
+- N. Roux
 - Anna Bernasconi
 - Michele Carboni
 - Nicolas Carrere
-- S de Freitas
-- ' Others'
+- Sofia
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.442477Z'
 publication_types:

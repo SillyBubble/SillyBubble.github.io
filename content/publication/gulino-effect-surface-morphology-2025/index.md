@@ -2,8 +2,8 @@
 title: Effect of the Surface Morphology of 3D Printed Titanium Substrates on the Mode
   I Fracture Toughness of Metal-Metal and Metal-Composite Bonded Joints
 authors:
-- Michele Gulino
-- Rosemere de Araujo Alves Lima
+- Michele
+- Rose
 - Fabrizio Moroni
 - Alessandro Pirondi
 - Sofia
@@ -35,4 +35,43 @@ tags:
 - Fracture toughness
 - Laser powder bed fusion (LPBF)
 - Titanium Ti6Al4V
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: true
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+
+# projects: []
+# links:
+# - name: URL
+#   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201806800
+
 ---
