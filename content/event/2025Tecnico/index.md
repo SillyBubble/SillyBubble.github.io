@@ -1,24 +1,23 @@
 ---
 title: Advancements in Circular Design of Adhesively Bonded Joints & Toughening Strategies
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Workshop
+event_url: flyer.pdf
 
 location: Tecnico Lisboa, Lisben
 address:
   street: Av. Rovisco Pais 1
-  city: 1049-001 Lisbon
-  region: CA
-  postcode: '94305'
-  country: United States
+  city: Lisbon
+  postcode: 1049-001
+  country: Portugal
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A full-day workshop.
+abstract: 'A full-day event bringing together leading researchers, Interact Research Lab members, and students to explore the latest developments in sustainable bonding solutions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-08T08:00:00Z'
-date_end: '2025-07-08T17:00:00Z'
+date: '2025-07-08T10:00:00Z'
+date_end: '2025-07-08T17:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,10 +27,10 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -54,10 +53,10 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+<!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Further event details, including page elements such as image galleries, can be added to the body of this page. -->

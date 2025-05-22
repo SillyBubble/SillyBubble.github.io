@@ -10,8 +10,7 @@ sections:
       title: Contact
       text: |-
         Find it interesting to working with composite and bonded structures? Reach out to us!
-      email: test@example.org
-      phone: 888 888 88 88
+      email: interact.research.lab@gmail.com
       address:
         street: Av. Rovisco Pais 1
         city: 1049-001 Lisbon
@@ -20,12 +19,9 @@ sections:
         country: Portugal
         country_code: PT
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        latitude: '38.73651'
+        longitude: '-9.13719'
+      directions: Mechanical Engineering Building 2, Room - 0.18
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
