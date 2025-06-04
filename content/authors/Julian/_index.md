@@ -67,8 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - PhD (Alumni)
 ---
 
-Julian was a PhD researcher supervised and co-promoted by Sofia, working on *Novel adherend laminate
-designs for composite bonded joints*.
+Julian was a PhD researcher supervised and co-promoted by Sofia, working on *Novel adherend laminate designs for composite bonded joints*.

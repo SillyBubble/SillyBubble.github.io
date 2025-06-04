@@ -15,6 +15,9 @@ sections:
           - Postdoc Researcher
           - PhD Candidate
           - Master Student
+          - Collaborator
+          - PhD (Alumni)
+          - MSc (Alumni)
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true

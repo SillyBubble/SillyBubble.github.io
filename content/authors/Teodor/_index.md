@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - MSc (Alumni)
 ---
 
 Teodor was a MSc student co-supervised by Sofia, working on *Sub-component design of composite bonded joints for maritime applications*.

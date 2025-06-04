@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - MSc (Alumni)
 ---
 
 John was a MSc student co-supervised by Sofia, working on *Simulation of the thermoplastic automated tape laying/fibre placement process*.

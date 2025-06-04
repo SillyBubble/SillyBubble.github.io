@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - PhD (Alumni)
 ---
 
 Mostafa is a PhD candidate co-supervised by Sofia, working on *Cyclic aging of bi-material adhesively bonded joints*.

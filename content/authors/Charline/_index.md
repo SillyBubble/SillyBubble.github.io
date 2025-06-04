@@ -22,21 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: "My research interests in 3D printing and bio-inspired toughening designs."
+bio: "I am interested in understanding interface and joint fracture mechanics to investigate toughening mechanisms."
 
 interests:
-  - Fracture mechanics
-  - Adhesive
+  - Interface fracture mechanics
+  - Adhesive joints mechanics
   - Composites
 
 education:
   courses:
-    - course: MSc in Chemical and Material Engineering
-      institution: Université catholique de Louvain
-      year: 2020
-    - course: PhD in Material Science Engineering
+    - course: PhD in Engineering Sciences and Technology
       institution: Université catholique de Louvain
       year: 2024
+    - course: MSc in Chemical and Materials Science Engineering
+      institution: Université catholique de Louvain
+      year: 2020
+    - course: Bach. in Engineering Sciences
+      institution: Université catholique de Louvain
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -84,4 +87,4 @@ section:
       columns: '1'
 ---
 
-Charline is a postdoc researcher in fracture mechanics of adhesive joints.
+Charline is a postdoctoral researcher supervised by Sofia Teixeira and Julie Teuwen at TUDelft. She is working on toughening strategies for interfaces between thermoplastic composites and metals. She combines experiments and finite element modelling.

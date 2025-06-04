@@ -63,8 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - MSc (Alumni)
 ---
 
-Christophe was a MSc student supervised by Sofia, working on *On the Assessment of Induction-
-Heated Adhesive Bonding: An Experimental Investigation of its Abilities as a Green, Next-Generation Manufacturing Technique for the Aerospace Industry*.
+Christophe was a MSc student supervised by Sofia, working on *On the Assessment of Induction-Heated Adhesive Bonding: An Experimental Investigation of its Abilities as a Green, Next-Generation Manufacturing Technique for the Aerospace Industry*.

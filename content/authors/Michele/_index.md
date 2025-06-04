@@ -66,8 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Collaborator
 ---
 
-Michele is a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded
-Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.
+Michele is a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.

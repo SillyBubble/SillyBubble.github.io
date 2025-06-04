@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - MSc (Alumni)
 ---
 
 Francisca was a MSc student supervised by Sofia, working on *Bonded repair optimization for composite structures*. **Cum laude**.
