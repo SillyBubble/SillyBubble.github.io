@@ -18,6 +18,11 @@ sections:
               brightness: 0.6
           position: right
           color: '#666'
+        link:
+          icon: person
+          icon-pack: fas
+          text: Explore it!
+          url: /author/rosemere-de-araujo-alves-lima/
       - title: Adhesively bonded parts of wind blades
         content: 'Reotech conference 2025'
         align: left
@@ -25,9 +30,15 @@ sections:
           image:
             filename: Adhesively bonded parts of wind blades_Reotech conference 2025.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.5
+            size: contain
           position: right
           color: '#666'
+        link:
+          icon: person
+          icon-pack: fas
+          text: Explore it!
+          url: /author/rosemere-de-araujo-alves-lima/
       - title: Biomimetic Toughening Structures
         content: 'Spider silk inspired 3D-printing polymer structures'
         align: left
@@ -35,9 +46,15 @@ sections:
           image:
             filename: Zhiyuan-OC.png
             filters:
-              brightness: 0.6
+              brightness: 0.5
+            size: contain
           position: center
-          color: '#333'
+          color: '#FFF'
+        link:
+          icon: person
+          icon-pack: fas
+          text: Explore it!
+          url: /author/zhiyuan-xu/
       - title: Explore more ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
