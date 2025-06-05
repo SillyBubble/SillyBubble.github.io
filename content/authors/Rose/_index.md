@@ -19,7 +19,9 @@ role: Postdoc Researcher
 # Organizations/Affiliations
 organizations:
   - name: IDMEC – Instituto de Engenharia Mecanica
-    url: ''
+    url: 'https://www.idmec.tecnico.ulisboa.pt/'
+  - name: Instituto Superior Técnico
+    url: 'https://www.tecnico.ulisboa.pt/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an MSCA postdoctoral researcher working on toughening and self-sensing strategies for smart, reversible adhesive joints. My research combines 3D printing, structural health monitoring, and multifunctional materials to enable the development of next-generation circular adhesively bonded composite structures.

@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc (Alumni)
+  - Alumni MSc
 ---
 
 Joost was a MSc student co-supervised by Sofia, working on *Bonded FRP-steel deck-to-girder connections: renovation of movable bridges*.

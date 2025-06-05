@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD (Alumni)
+  - Alumni PhD
 ---
 
 Xi was a PhD candidate co-supervised by Sofia, working on *Unfolding the early fatigue damage accumulation for cross ply laminates*.

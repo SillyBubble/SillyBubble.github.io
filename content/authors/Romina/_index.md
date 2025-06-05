@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD (Alumni)
+  - Alumni PhD
 ---
 
 Romina was a PhD candidate supervised and co-promoted by Sofia, working on *Understanding of crack growth in bi-material bonded joints with thick bondlines*.

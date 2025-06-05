@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc (Alumni)
+  - Alumni MSc
 ---
 
 Nkosinathi was a MSc student supervised by Sofia, working on *3D printed meta materials for sandwich cores of biobased materials*.

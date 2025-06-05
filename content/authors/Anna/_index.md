@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc (Alumni)
+  - Alumni MSc
 ---
 
 Anna was a MSc student co-supervised by Sofia, working on *Mechanical behaviour of transparent structural silicone adhesive laminated connections under monotonic and cyclic loading*. **Cum laude**.

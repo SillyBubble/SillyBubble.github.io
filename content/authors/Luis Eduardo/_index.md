@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc (Alumni)
+  - Alumni MSc
 ---
 
 Luis was a MSc student co-supervised by Sofia, working on *Design of an Experimental Test Set-up for Buckling of a Trailing Edge Composite Bonded Joint Specimen Based on Semi-analytical and Numerical Models*.

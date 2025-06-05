@@ -16,8 +16,8 @@ sections:
           - PhD Candidate
           - Master Student
           - Collaborator
-          - PhD (Alumni)
-          - MSc (Alumni)
+          - Alumni PhD
+          - Alumni MSc
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
