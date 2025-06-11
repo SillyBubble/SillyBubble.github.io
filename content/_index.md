@@ -56,6 +56,7 @@ type: landing
 #       # Duration of transition between slides (in ms)
 #       interval: 5000
 
+section:
   - block: hero
     content:
       title: ""
