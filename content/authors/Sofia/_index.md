@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.tudelft.nl/en/staff/s.teixeiradefreitas/?cHash=f42287d04d5c8e0ae842b1c43b4ce59a'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability.
+bio: My research interests in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address technological challenges crucial for our planet's sustainability.
 
 interests:
   - Mechanics of layered materials
