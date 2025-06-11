@@ -10,7 +10,7 @@ authors:
 - Loucas Papadakis
 - Mohamed Nasr Saleh
 - Klara V. Machalicka
-- Sofia Teixeira de Freitas
+- Sofia
 - Anastasios P. Vassilopoulos
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.039860Z'

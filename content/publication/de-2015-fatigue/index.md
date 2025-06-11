@@ -1,7 +1,7 @@
 ---
 title: Fatigue behavior of adhesively bonded FML-skin-to-CFRP-stiffener
 authors:
-- S Teixeira De Freitas
+- Sofia
 date: '2015-01-01'
 publishDate: '2025-03-20T07:54:44.396123Z'
 publication_types:

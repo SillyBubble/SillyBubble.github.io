@@ -5,7 +5,7 @@ authors:
 - Marcio M. Arouche
 - Sandip Budhe
 - Mariana D. Banea
-- Sofia Teixeira de Freitas
+- Sofia
 - Silvio de Barros
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:44.335606Z'

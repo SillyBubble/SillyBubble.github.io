@@ -3,7 +3,7 @@ title: 'Ultrasonic welding of CF/Epoxy to CF/PEEK composites: Effect of the ener
   director material on the welding process'
 authors:
 - E Tsiangou
-- S de Freitas
+- Sofia
 - I Fernandez Villegas
 - R Benedictus
 date: '2018-01-01'

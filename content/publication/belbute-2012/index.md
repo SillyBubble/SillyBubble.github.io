@@ -3,7 +3,7 @@ title: A finite element for bending analysis of sandwich composite beams
 authors:
 - P. Belbute
 - A.L. Araújo
-- S. Teixeira De Freitas
+- Sofia
 - M. De Freitas
 date: '2012-01-01'
 publishDate: '2025-03-20T07:54:44.646947Z'

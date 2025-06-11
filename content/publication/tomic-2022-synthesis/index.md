@@ -7,7 +7,7 @@ authors:
 - Mohamed Nasr Saleh
 - Aleksandar Marinković
 - Dimitrios Zarouchas
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.061527Z'
 publication_types:

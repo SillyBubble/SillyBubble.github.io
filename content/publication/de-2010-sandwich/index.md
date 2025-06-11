@@ -1,7 +1,7 @@
 ---
 title: Sandwich and bonded systems in renovations of orthotropic steel bridges
 authors:
-- S Teixeira De Freitas
+- Sofia
 - M H Kolstein
 - F S K Bijlaard
 date: '2010-01-01'

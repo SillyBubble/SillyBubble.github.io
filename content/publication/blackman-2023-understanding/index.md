@@ -3,7 +3,7 @@ title: Understanding fracture mode-mixity and its effects on bond performance
 authors:
 - Bamber Blackman
 - Fengzhen Sun
-- Sofia Teixeira de Freitas
+- Sofia
 - Silvio de Barros
 - Marcio Moreira Arouche
 - Alojz Ivankovic

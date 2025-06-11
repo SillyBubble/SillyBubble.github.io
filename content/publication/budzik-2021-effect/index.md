@@ -3,9 +3,9 @@ title: Effect of adhesive thickness on joint performance during mode I fracture 
 authors:
 - Michal Kazimierz Budzik
 - Romina Lopes Fernandes
-- Sofia Teixeira de Freitas
+- Sofia
 - Simon Heide-Jørgensen
-- J Jumel
+- J. Jumel
 date: '2021-01-01'
 publishDate: '2025-03-20T07:54:44.490019Z'
 publication_types:

@@ -4,7 +4,7 @@ title: Assessing the Long-Term Performance of Adhesive Joints in Space Structure
 authors:
 - Gabin Charpentier
 - Ugo Lafont
-- Sofia de Freitas
+- Sofia
 date: '2023-01-01'
 publishDate: '2025-03-20T07:54:44.600110Z'
 publication_types:

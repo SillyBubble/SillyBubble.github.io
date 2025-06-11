@@ -4,7 +4,7 @@ title: 'Strain-based methodology for mixed-mode I+II fracture: A new partitionin
 authors:
 - M.M. Arouche
 - W. Wang
-- S. Teixeira de Freitas
+- Sofia
 - S. de Barros
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:44.116904Z'

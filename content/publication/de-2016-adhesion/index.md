@@ -2,7 +2,7 @@
 title: Adhesion quality of steel-CFRP interface bonding
 authors:
 - S de Barros
-- Sofia Teixeira De Freitas
+- Sofia
 - M D Banea
 - S Budhe
 - M M Arouche

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sofia Teixeira de Freitas
+title: "Sofia Teixeira de Freitas"
 
 # Full name (for SEO)
 first_name: Sofia

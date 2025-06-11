@@ -3,7 +3,7 @@ title: Effect of salt spray ageing on the fracture of composite-to-metal bonded 
 authors:
 - M. M. Arouche
 - M. N. Saleh
-- S. Teixeira de Freitas
+- Sofia
 - S. de Barros
 date: '2021-07-01'
 publishDate: '2025-03-20T07:54:44.469137Z'

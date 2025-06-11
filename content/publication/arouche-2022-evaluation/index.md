@@ -3,7 +3,7 @@ title: Evaluation of the strain-based partitioning method for mixed-mode I+ II f
   of bi-material cracks
 authors:
 - Marcio Moreira Arouche
-- Sofia de Freitas
+- Sofia
 - Silvio de Barros
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.436497Z'
