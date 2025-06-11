@@ -6,7 +6,7 @@ authors:
 - Francisca Ferreira
 - Mohamed Nasr Saleh
 - Paulo N B Reis
-- Sofia Teixeira De Freitas
+- Sofia
 date: '2023-01-01'
 publishDate: '2025-03-20T07:54:44.383110Z'
 publication_types:

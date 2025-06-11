@@ -5,7 +5,7 @@ authors:
 - M.M. Arouche
 - S. Budhe
 - L.A. Alves
-- S. Teixeira de Freitas
+- Sofia
 - M.D. Banea
 - S. de Barros
 date: '2018-01-01'
