@@ -24,13 +24,13 @@ organizations:
     url: 'https://www.tudelft.nl/en/staff/s.teixeiradefreitas/?cHash=f42287d04d5c8e0ae842b1c43b4ce59a'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address technological challenges crucial for our planet's sustainability.
+bio: Sofia Teixeira de Freitas researches the structural integrity of bonded and layered materials to enable durable, sustainable structures. She is also an accredited group facilitator, committed to building academic environments grounded in cooperation and inclusion—key to overcoming technological limits and addressing the challenges of a truly sustainable society. 
 
 interests:
-  - Mechanics of layered materials
-  - Tougening interfaces
-  - Climate-neutral structures
-  - Adhesive joints
+  - Interface mechanics
+  - Adhesively bonded joints
+  - Composites
+  - Experimental mechanics
 
 education:
   courses:
@@ -40,7 +40,7 @@ education:
     - course: MSc in Civil Engineering
       institution: Instituto Superior Técnico
       year: 2005
-
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -73,4 +73,10 @@ user_groups:
   - Principal Investigator
 ---
 
-Sofia is Associate Professor at Instituto Superior Técnico specializing in the mechanics of interfaces and layered materials for climate-neutral structures in energy and mobility. Committed to fostering a collaborative academic environment grounded in diversity and inclusion to address the technological challenges crucial for our planet's sustainability.
+**Sofia Teixeira de Freitas** is an Associate Professor at the Department of Mechanical Engineering, Instituto Superior Técnico, University of Lisbon, and holds a part-time position at the Faculty of Aerospace Engineering at Delft University of Technology. Her research focuses on the structural integrity of bonded interfaces and layered materials, aiming to create durable and sustainable load-bearing structures. 
+
+She holds a Civil Engineering degree from Instituto Superior Técnico and a PhD in Civil Engineering from Delft University of Technology. In 2014, she received the prestigious Delft Technology Fellowship, which led to her appointments as Assistant and then Associate Professor at TU Delft. 
+
+Sofia is the recipient of the Young Talent Innovation Award (VENI) from the Dutch Research Council (NWO) and has led or participated in numerous national and international research projects. She served as Chair of the COST Action CERTBOND, a European network of over 90 members from 25+ countries focused on composite bonded joints. 
+
+In addition to her technical work, she is an accredited group facilitator and advocates for a collaborative and inclusive academic environment as a foundation for addressing the sustainability challenges of tomorrow. 

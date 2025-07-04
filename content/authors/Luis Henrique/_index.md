@@ -22,17 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: Currently developing his Master Thesis supervised by Prof. Sofia Freitas, Luís Pereira is a Aerospace Engineering student currently researching the reinforcement of biobased materials through bio inspired 3D-printed structures.
 
 interests:
-  - 3D print
-  - Biobased resin
+  - Adhesive joints
+  - Composites
+  - 3D printing
+  - Overlapping curls
+  - Biobased materials
 
-# education:
-#   courses:
-#     - course: MSc in Civil Engineering
-#       institution: Delft University of Technology
-#       year: 2021
+education:
+  courses:
+    - course: MSc in Civil Engineering
+      institution: Instituto Superior Tecnico
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,5 +69,6 @@ user_groups:
   - Master Student
 ---
 
-Luis is a MSc student supervised by Sofia, working on *3D printed microstructures for reinforcing
-biobased resins*.
+Luís Pereira is a MSc in Aerospace Engineering student in Instituto Superior Técnico, currently developing his Master Thesis, supervised by Prof. Sofia Freitas.  
+
+The work developed on this Thesis relates to the integration of bio-inspired 3D printed reinforcement structures into a biobased polyurethane resin, with the purpose of increasing the resin’s mechanical properties. The printed structures are called overlapping curls and resemble the molecular structure of spider silk, having the purpose of, through their curled properties, unfolding and in this process release energy related to the mechanical loading of the material. 

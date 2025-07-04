@@ -22,16 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in biobased composite repairs.
+bio: Curious and passionate about science—especially solid mechanics—I am interested in the application of composite materials across various industrial sectors, with a focus on enhancing their mechanical performance and environmental sustainability. 
 
 interests:
-  - Biobased composite
-  - Structural repair
+  - Adhesively bonded joints
+  - Composite materials
+  - Flax fibers and fabrics
+  - Biobased resins and adhesives
+  - Reinforcement of steel structures
+  - Finite element simulation
+  - Durability of composite materials
 
 education:
   courses:
-    - course: Engineering Diploma, Mechanical Engineering
-      institution: ISAE-Supméca – Institut supérieur de mécanique de Paris
+    - course: Engineering degree in structural mechanics, materials, processes and simulation
+      institution: ISAE-SUPMECA - Higher Institute of Mechanics of Paris 
       year: 2022
 
 # Social/Academic Networking
@@ -66,4 +71,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Amine is a PhD candidate co-supervised by Sofia, working on biobased composite repair.
+Mohamed Amine Tazi is a PhD candidate at the CESI LINEACT Laboratory in Aix-en-Provence, France. He holds an engineering degree from ISAE-SUPMECA, the Higher Institute of Mechanics of Paris. Since March 2023, he has been conducting research on a PhD project entitled "Reinforcement of Steel Structures with Adhesively Bonded Biobased Composite Patches", under the supervision of Prof. Sofia Teixeira de Freitas, Prof. Silvio de Barros, and Prof. Pascal Casari. His work aims to enhance both the environmental sustainability and mechanical performance of bonded composite reinforcements by incorporating flax fibers and biobased resins and adhesives. He also investigates the long-term durability of these materials under various environmental conditions. 
