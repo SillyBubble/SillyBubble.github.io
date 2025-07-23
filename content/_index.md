@@ -127,14 +127,22 @@ sections:
       subtitle: ''
       text:
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
-          filename: coders.jpg
+          filename: ECCM21.jpg
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: left
+          size: cover
+          text_color_light: true
+        image: 
+          filename: AB2025.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: right
           size: cover
           text_color_light: true
       spacing:
