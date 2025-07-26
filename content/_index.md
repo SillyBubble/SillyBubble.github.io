@@ -127,10 +127,10 @@ sections:
       subtitle: ''
       text: |
         <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
-          <img src="/images/ECCM21.jpg" width="450" />
-          <img src="/images/Lisboa.jpg" width="450" />
-          <img src="/images/AB2025.jpg" width="450" />
-          <img src="/images/AB2025_view.jpg" width="450" />
+          <img src="/assets/media/ECCM21.jpg" width="450" />
+          <img src="/assets/media/Lisboa.jpg" width="450" />
+          <img src="/assets/media/AB2025.jpg" width="450" />
+          <img src="/assets/media/AB2025_view.jpg" width="450" />
         </div>
     design:
       columns: '1'
