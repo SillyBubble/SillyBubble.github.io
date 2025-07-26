@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2025-02-12
+date: 2025-07-12
 type: landing
 
 # sections:
@@ -126,36 +126,15 @@ sections:
       title:
       subtitle: ''
       text: |
-        <div class="image-row">
-          <img src="/images/ECCM21.jpg" alt="" />
-          <img src="/images/Lisboa.jpg" alt="" />
-          <img src="/images/AB2025.jpg" alt="" />
-          <img src="/images/AB2025_view.jpg" alt="" />
+        <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
+          <img src="/images/ECCM21.jpg" width="450" />
+          <img src="/images/Lisboa.jpg" width="450" />
+          <img src="/images/AB2025.jpg" width="450" />
+          <img src="/images/AB2025_view.jpg" width="450" />
         </div>
-      
-      # Group Gallery ![](ECCM21.jpg "ECCM21, 2024") ![](Lisboa.jpg "Lisboa Workshop, 2025") ![](AB2025.jpg "AB2025, 2025") ![](AB2025_view.jpg "AB2025, 2025") 
-    # design:
-    #   columns: '1'
-    #   background:
-    #     image: 
-    #       filename: ECCM21.jpg
-    #       filters:
-    #         brightness: 1
-    #       parallax: true
-    #       position: left
-    #       size: cover
-    #       text_color_light: true
-    #     image: 
-    #       filename: AB2025.jpg
-    #       filters:
-    #         brightness: 1
-    #       parallax: false
-    #       position: right
-    #       size: cover
-    #       text_color_light: true
-    #   spacing:
-    #     padding: ['20px', '0', '20px', '0']
-    #   css_class: fullscreen
+    design:
+      columns: '1'
+      class: fullscreen
     
   - block: markdown
     content:
