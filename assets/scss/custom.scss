@@ -1,0 +1,13 @@
+// Make page header alignment consistent with widget page header alignment
+.image-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  justify-items: center;
+  gap: 20px;
+}
+
+.image-row img {
+  width: 600px;
+  height: auto;
+  border-radius: 8px;
+}

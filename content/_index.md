@@ -125,36 +125,45 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
-    design:
-      columns: '2'
-      background:
-        image: 
-          filename: ECCM21.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: left
-          size: cover
-          text_color_light: true
-        image: 
-          filename: AB2025.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: right
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
+      text: |
+        <div class="image-row">
+          <img src="/images/ECCM21.jpg" alt="" />
+          <img src="/images/Lisboa.jpg" alt="" />
+          <img src="/images/AB2025.jpg" alt="" />
+          <img src="/images/AB2025_view.jpg" alt="" />
+        </div>
+      
+      # Group Gallery ![](ECCM21.jpg "ECCM21, 2024") ![](Lisboa.jpg "Lisboa Workshop, 2025") ![](AB2025.jpg "AB2025, 2025") ![](AB2025_view.jpg "AB2025, 2025") 
+    # design:
+    #   columns: '1'
+    #   background:
+    #     image: 
+    #       filename: ECCM21.jpg
+    #       filters:
+    #         brightness: 1
+    #       parallax: true
+    #       position: left
+    #       size: cover
+    #       text_color_light: true
+    #     image: 
+    #       filename: AB2025.jpg
+    #       filters:
+    #         brightness: 1
+    #       parallax: false
+    #       position: right
+    #       size: cover
+    #       text_color_light: true
+    #   spacing:
+    #     padding: ['20px', '0', '20px', '0']
+    #   css_class: fullscreen
+    
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team →" style="text" %}}
     design:
       columns: '1'
+
 ---
