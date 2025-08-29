@@ -44,10 +44,10 @@ social:
     link: 'mailto:Z.Xu-8@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
+    link: https://www.linkedin.com/in/zhiyuanxu118/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.nl/citations?user=3Pqu--sAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Zhiyuan is a PhD candidate in 3D printing and bio-inspired toughening designs.
+Zhiyuan is a PhD candidate at TU Delft supervised by Sofia. His PhD topic focuses on toughening bio-based epoxy adhesive using 3D printed bio-inspired designs.

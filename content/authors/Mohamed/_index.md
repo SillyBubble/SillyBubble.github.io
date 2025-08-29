@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni Postdoc
 ---
 
 Mohamed was a Postdoc researcher supervised by Sofia, in fracture mechanisms of bi-material bonded joints with thick bondlines under maritime environmental conditions.

@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc Researcher
+  - Alumni Postdoc
 
 section:
   - block: collection
@@ -87,4 +87,4 @@ section:
       columns: '1'
 ---
 
-Charline is a postdoctoral researcher supervised by Sofia Teixeira and Julie Teuwen at TUDelft. She is working on toughening strategies for interfaces between thermoplastic composites and metals. She combines experiments and finite element modelling.
+Charline was a postdoctoral researcher supervised by Sofia Teixeira and Julie Teuwen at TUDelft. She is working on toughening strategies for interfaces between thermoplastic composites and metals. She combines experiments and finite element modelling.

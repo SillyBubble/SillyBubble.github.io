@@ -4,59 +4,64 @@ title:
 date: 2025-07-12
 type: landing
 
-# sections:
-#   - block: slider
-#     content:
-#       slides:
-#       - title: 👋 Welcome to the group
-#         content: Take a look at what we're working on...
-#         color: '#000'
-#         align: left
-#         background:
-#           image:
-#             filename: welcome.svg
-#             filters:
-#               brightness: 0.7
-#             size: contain
-#             position: right
-#           color: '#FFFFFF'
-#       - title: Toughening adhesive joints
-#         content: 'Extrinsic bridging toughening mechanism...'
-#         align: left
-#         background:
-#           image:
-#             filename: DCB_micro CT.svg
-#             filters:
-#               brightness: 0.8
-#             size: contain
-#             position: right
-#           color: '#000000'
-#       - title: Structure Health Monitoring
-#         content: 'Real time monitoring the damage...'
-#         align: left
-#         background:
-#           image:
-#             filename: DCB_bi-material_with acoustic emission sensors.jpg
-#             filters:
-#               brightness: 0.8
-#             size: contain
-#             position: right
-#           color: '#000'
-#         link:
-#           icon: person
-#           icon-pack: fas
-#           text: Explore it!
-#           url: /author/rosemere-de-araujo-alves-lima/
-#     design:
-#       # Slide height is automatic unless you force a specific height (e.g. '400px')
-#       slide_height: '300px'
-#       is_fullscreen: false
-#       # Automatically transition through slides?
-#       loop: true
-#       # Duration of transition between slides (in ms)
-#       interval: 5000
-
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: ECCM21
+        content: 
+        align: left
+        background:
+          image:
+            filename: ECCM21.jpg
+            filters:
+              brightness: 0.8
+            size: contain
+            position: right
+          color: '#000000'
+      - title: Lisboa Workshop 2025
+        content: 
+        align: left
+        background:
+          image:
+            filename: Lisboa.jpg
+            filters:
+              brightness: 0.8
+            size: contain
+            position: right
+          color: '#000000'
+      - title: AB2025
+        content: 
+        align: left
+        background:
+          image:
+            filename: AB2025.jpg
+            filters:
+              brightness: 0.8
+            size: contain
+            position: right
+          color: '#000'
+      - title: AB2025
+        content: 
+        align: left
+        background:
+          image:
+            filename: AB2025_view.jpg
+            filters:
+              brightness: 0.8
+            size: contain
+            position: right
+          color: '#000'
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 5000
+
   - block: hero
     content:
       title: ""

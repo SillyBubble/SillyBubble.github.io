@@ -25,8 +25,8 @@ organizations:
 bio: My research interests in 3D printing and bio-inspired toughening designs.
 
 interests:
-  - 3D print
-  - Bio-inspired design
+  - Adhesive joint
+  - Crack morphology characterization
 
 # education:
 #   courses:

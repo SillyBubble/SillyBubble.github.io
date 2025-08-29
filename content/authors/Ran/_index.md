@@ -66,4 +66,4 @@ user_groups:
   - Collaborator
 ---
 
-Ran is a postdoc researcher in toughening strategies of adhesive joints.
+Ran is a postdoc researcher at TU Delft. His research topic focus on toughening adhesive joints with bio-inspired designs and delaying crack path with thermoplastic composites.

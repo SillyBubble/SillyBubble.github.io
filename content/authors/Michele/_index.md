@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Michele Guilino
+title: Michele Gulino
 
 # Full name (for SEO)
 first_name: Michele
-last_name: Guilino
+last_name: Gulino
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoc Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
   - Collaborator
 ---
 
-Michele is a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.
+Michele was a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.
