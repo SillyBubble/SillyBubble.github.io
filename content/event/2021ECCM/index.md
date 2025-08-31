@@ -5,11 +5,7 @@ event: Conference
 event_url: 
 
 location: La Cité Nantes Events Center
-address:
-  street: Av. Rovisco Pais 1
-  city: Nantes
-  postcode: 
-  country: France
+
 
 summary: An international conference.
 abstract: 'ECCM21 is the global meeting point for composite material experts. Offering a dynamic platform for innovation, it is a unique opportunity to learn, network, and explore the future of composites.'
@@ -18,12 +14,12 @@ abstract: 'ECCM21 is the global meeting point for composite material experts. Of
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-07-02T10:00:00Z'
 date_end: '2024-07-05T17:30:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-01T00:00:00Z'
 
-authors: []
+authors: [none]
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -5,29 +5,21 @@ event: Conference
 event_url: 
 
 location: Faculty of Engineering - University of Porto
-address:
-  street: 
-  city: Porto
-  postcode: 
-  country: Portugal
 
 summary: An international conference.
 abstract: 'AB2025 focuses on structural bonding, including all relevant areas of bonding.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-10T10:00:00Z'
-date_end: '2025-07-11T17:30:00Z'
-all_day: false
+date: 2025-07-10T09:00:00Z
+date_end: 2025-07-11T18:30:00Z
+all_day: true
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2025-05-05T00:00:00Z'
-
-authors: []
+authors: [none]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -60,3 +52,6 @@ projects:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
+<div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
+  <img src="/images/AB2025_view.jpg" width="800" />
+</div>
