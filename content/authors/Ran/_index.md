@@ -26,7 +26,8 @@ bio: My research interests in 3D printing and bio-inspired toughening designs.
 
 interests:
   - Adhesive joints
-  - Composites
+  - Composites structure toughening
+  - X-ray Computed Tomography
 
 education:
   courses:
