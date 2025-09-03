@@ -56,16 +56,27 @@ sections:
     content:
       title: ""
       image:
-        filename: Adhesively bonded wind blades.jpg
+        filename: REVOLUTION_WIND.png
       text: >
-        **Revolution Wind**
+        **REVOLUTIONising WIND blade life-cycle through circular design and Condition-Based Monitoring using multifunctional self-sensing 3D printed bonded structures and a multi-modal machine learning approach**
         <br />
         @Técnico
         <br />
 
-        Efforts to reduce CO2 emissions and improve sustainability in the aeronautical sector have been increasing, leading to new solutions to **extend aircraft’s operational life and reuse of multi-material and composite components**. Furthermore, the industry is striving towards more efficient, sustainable, and lightweight aircraft. However, one of the **challenges that needs to be tackled is the assembly and repair of advanced material components** in primary structures.
+        The challenge of climate change poses a significant threat to humanity. It is essential to prioritise renewable and cost-effective energy sources while simultaneously reducing greenhouse gas emissions for the benefit of future generations. One of the primary solutions lies in the new generation of larger, segmented and more efficient wind blades.
         
-        This project aims to enhance the damage tolerance of secondary adhesively bonded joints
+        The **REVOLUTION_WIND** project aims to enhance the circularity and damage tolerance of the new generation of larger and segmented wind blades by embedding a multifunctional self-sensing 3D printed structure within a reversible adhesive layer. The project will use a combination of supervised machine learning and experimental characterisation to devise a multi-modal monitoring system that can accurately predict the remaining useful life of the reversible adhesively bonded joints. The most cutting-edge outcome of **REVOLUTION_WIND** is a multifunctional 3D printed self-sensing structure that will work as an embedded reinforcement and generate input data for a machine learning framework for in-situ life assessment of the structural integrity of reversible adhesively bonded joints.
+        
+        Finally, the successful implementation of **REVOLUTION_WIND** will contribute to achieving the European Green Deal's objective of establishing wind power as Europe's primary energy source while promoting a circular economy.
+
+        <br />
+        <br />
+        **Funding Scheme:**
+
+        HORIZON-TMA-MSCA-PF-EF - HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships
+
+        <br />
+        **Useful link:** https://cordis.europa.eu/project/id/101153013
 
         <br />
         <br />
