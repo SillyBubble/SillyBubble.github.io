@@ -2,11 +2,11 @@
 title: On the influence of the adhesive and the adherend ductility on mode I fracture
   characterization of thick adhesively-bonded joints
 authors:
-- Mohamed Nasr Saleh
+- Mohamed
 - Michal K. Budzik
 - Milad Saeedifar
 - Dimitrios Zarouchas
-- Sofia Teixeira De Freitas
+- Sofia
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.238284Z'
 publication_types:

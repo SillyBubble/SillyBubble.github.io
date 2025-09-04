@@ -3,10 +3,10 @@ title: Characterization and optimization of hybrid carbon–glass epoxy composit
   combined loading
 authors:
 - V. Infante
-- J.F.A. Madeira
-- R.B. Ruben
+- J. F. A. Madeira
+- R. B. Ruben
 - F. Moleiro
-- S.T. de Freitas
+- Sofia
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:44.567196Z'
 publication_types:

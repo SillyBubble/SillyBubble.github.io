@@ -2,7 +2,7 @@
 title: Effect of adhesive thickness on joint performance during mode I fracture testing
 authors:
 - Michal Kazimierz Budzik
-- Romina Lopes Fernandes
+- Romina
 - Sofia
 - Simon Heide-Jørgensen
 - J. Jumel

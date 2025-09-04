@@ -3,7 +3,7 @@ title: On the sensitivity of the ultrasonic welding process of epoxy- to polyeth
   (PEEK)-based composites to the welding force and amplitude of vibrations
 authors:
 - Eirini Tsiangou
-- Sofia Teixeira de Freitas
+- Sofia
 - Rinze Benedictus
 - Irene Fernandez Villegas
 date: '2021-01-01'

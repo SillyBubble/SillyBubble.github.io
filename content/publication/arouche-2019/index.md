@@ -2,7 +2,7 @@
 title: 'Strain-based methodology for mixed-mode I+II fracture: A new partitioning
   method for bi-material adhesively bonded joints'
 authors:
-- M.M. Arouche
+- M. M. Arouche
 - W. Wang
 - Sofia
 - S. de Barros

@@ -2,13 +2,13 @@
 title: A finite element for bending analysis of sandwich composite beams
 authors:
 - P. Belbute
-- A.L. Araújo
+- A. L. Araújo
 - Sofia
 - M. De Freitas
 date: '2012-01-01'
 publishDate: '2025-03-20T07:54:44.646947Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Civil-Comp Proceedings*'
 abstract: Nowadays, the use of composite laminated structures in the automobile, railroad,
   civil, aeronautical, space and naval industries is growing at a huge rate. Recently,

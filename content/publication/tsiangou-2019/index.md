@@ -4,7 +4,7 @@ title: 'Ultrasonic welding of thermoset to thermoplastic based composites: Effec
 authors:
 - Eirini Tsiangou
 - Irene Fernandez Billegas
-- Sofia Teixeira De Freitas
+- Sofia
 - Rinze Benedictus
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:43.975678Z'

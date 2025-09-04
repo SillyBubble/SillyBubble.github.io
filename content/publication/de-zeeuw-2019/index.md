@@ -2,7 +2,7 @@
 title: Creep behaviour of steel bonded joints under hygrothermal conditions
 authors:
 - C. de Zeeuw
-- S. Teixeira de Freitas
+- Sofia
 - D. Zarouchas
 - M. Schilling
 - R. Lopes Fernandes

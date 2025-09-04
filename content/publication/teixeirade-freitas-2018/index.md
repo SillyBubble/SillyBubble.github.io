@@ -2,7 +2,7 @@
 title: The use of acoustic emission and composite peel tests to detect weak adhesion
   in composite structures
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Dimitrios Zarouchas
 - J. A. Poulis
 date: '2018-01-01'

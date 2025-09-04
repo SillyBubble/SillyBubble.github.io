@@ -3,7 +3,7 @@ title: Investigation on energy director-less ultrasonic welding of polyetherimid
   (PEI)- to epoxy-based composites
 authors:
 - E. Tsiangou
-- S. Teixeira de Freitas
+- Sofia
 - I. Fernandez Villegas
 - R. Benedictus
 date: '2019-01-01'

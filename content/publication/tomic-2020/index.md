@@ -4,7 +4,7 @@ title: Enhanced interface adhesion by novel eco-epoxy adhesives based on the mod
 authors:
 - Nataša Z. Tomić
 - Mohamed Nasr Saleh
-- Sofia Teixeira de Freitas
+- Sofia
 - Andreja Živković
 - Marija Vuksanović
 - Johannes A. Poulis

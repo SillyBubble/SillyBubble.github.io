@@ -4,7 +4,7 @@ title: Susceptor-Assisted Induction Curing Behaviour of a Two Component Epoxy Pa
 authors:
 - C. Severijns
 - Sofia
-- J.A. Poulis
+- J. A. Poulis
 date: '2017-06-01'
 publishDate: '2025-03-01T22:50:00.041506Z'
 publication_types:

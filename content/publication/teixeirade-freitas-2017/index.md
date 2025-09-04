@@ -2,10 +2,10 @@
 title: Interface adhesion assessment of composite-to-metal bonded joints under salt
   spray conditions using peel tests
 authors:
-- S Teixeira de Freitas
-- M D Banea
-- S Budhe
-- S de Barros
+- Sofia
+- M. D. Banea
+- S. Budhe
+- S. de Barros
 date: '2017-01-01'
 publishDate: '2025-03-20T07:54:44.342890Z'
 publication_types:

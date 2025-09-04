@@ -1,8 +1,8 @@
 ---
 title: Role of adherend material on the fracture of bi-material composite bonded joints
 authors:
-- Romina Lopes Fernandes
-- Sofia Teixeira de Freitas
+- Romina
+- Sofia
 - Michal K. Budzik
 - Johannes A. Poulis
 - Rinze Benedictus

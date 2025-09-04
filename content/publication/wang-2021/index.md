@@ -2,14 +2,14 @@
 title: A review of experimental and theoretical fracture characterization of bi-material
   bonded joints
 authors:
-- Wandong Wang
-- Sofia Teixeira De Freitas
+- Wandong
+- Sofia
 - Johannes A. Poulis
 - Dimitrios Zarouchas
 date: '2021-01-01'
 publishDate: '2025-03-20T07:54:44.640110Z'
 publication_types:
-- manuscript
+- article-journal
 publication: '*Composites Part B: Engineering*'
 doi: 10.1016/j.compositesb.2020.108537
 abstract: 'High performance structures require the use of different materials to meet

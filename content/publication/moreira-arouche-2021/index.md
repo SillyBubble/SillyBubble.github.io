@@ -3,7 +3,7 @@ title: On the influence of glass fiber mat on the mixed-mode fracture of composi
   bonded joints
 authors:
 - Marcio Moreira Arouche
-- Sofia Teixeira de Freitas
+- Sofia
 - Silvio de Barros
 date: '2021-01-01'
 publishDate: '2025-03-20T07:54:44.260113Z'

@@ -1,7 +1,7 @@
 ---
 title: Adhesion properties of bonded composite-to-aluminium joints using peel tests
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Jos Sinke
 date: '2014-01-01'
 publishDate: '2025-03-20T07:54:44.619206Z'

@@ -15,7 +15,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2025-03-20T07:54:44.039860Z'
 publication_types:
-- manuscript
+- article-journal
 publication: '*Journal of Adhesion*'
 doi: 10.1080/00218464.2021.1953479
 abstract: The development of new adhesives has allowed to expand the application of

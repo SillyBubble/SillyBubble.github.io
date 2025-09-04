@@ -2,7 +2,7 @@
 title: 'Failure analysis of adhesively-bonded skin-to-stiffener joints: Metal-metal
   vs. composite-metal'
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Jos Sinke
 date: '2015-01-01'
 publishDate: '2025-03-20T07:54:44.409382Z'

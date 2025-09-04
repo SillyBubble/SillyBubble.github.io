@@ -2,9 +2,9 @@
 title: 'How pure mode I can be obtained in bi-material bonded DCB joints: A longitudinal
   strain-based criterion'
 authors:
-- Wandong Wang
-- Romina Lopes Fernandes
-- Sofia Teixeira De Freitas
+- Wandong
+- Romina
+- Sofia
 - Dimitrios Zarouchas
 - Rinze Benedictus
 date: '2018-01-01'

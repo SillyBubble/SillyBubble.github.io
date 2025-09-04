@@ -2,7 +2,7 @@
 title: Fatigue behavior of bonded and sandwich systems for strengthening orthotropic
   bridge decks
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Henk Kolstein
 - Frans Bijlaard
 date: '2013-01-01'

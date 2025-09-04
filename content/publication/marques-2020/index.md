@@ -11,11 +11,11 @@ authors:
 - Shoshan T. Abrahami
 - Roman Günther
 - John M.M. de Kok
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2020-01-01'
 publishDate: '2025-03-20T07:54:44.178579Z'
 publication_types:
-- manuscript
+- article-journal
 publication: '*Materials*'
 doi: 10.3390/ma13245590
 abstract: Using adhesives for connection technology has many benefits. It is cost-efficient,

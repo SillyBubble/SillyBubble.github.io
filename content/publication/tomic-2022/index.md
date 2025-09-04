@@ -6,7 +6,7 @@ authors:
 - Mohamed Nasr Saleh
 - Milad Saeedifar
 - Aleksandar Marinković
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2022-10-01'
 publishDate: '2025-03-20T07:54:44.150945Z'
 publication_types:

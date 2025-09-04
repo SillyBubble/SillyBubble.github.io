@@ -3,9 +3,9 @@ title: Towards Pure Mode I Loading in Dissimilar Adhesively Bonded Double Cantil
   Beams
 authors:
 - M. Moazzami
-- M.R. Ayatollahi
+- M. R. Ayatollahi
 - Sofia
-- L.F.M. Da Silva
+- L. F. M. Da Silva
 date: '2021-06-01'
 publishDate: '2025-03-01T22:50:00.034272Z'
 publication_types:

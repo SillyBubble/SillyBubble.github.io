@@ -2,8 +2,8 @@
 title: 'From thin to extra-thick adhesive layer thicknesses: Fracture of bonded joints
   under mode I loading conditions'
 authors:
-- Romina Lopes Fernandes
-- Sofia Teixeira de Freitas
+- Romina
+- Sofia
 - Michal K. Budzik
 - Johannes A. Poulis
 - Rinze Benedictus

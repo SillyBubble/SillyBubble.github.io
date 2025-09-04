@@ -1,7 +1,7 @@
 ---
 title: Sandwich system for renovation of orthotropic steel bridge decks
 authors:
-- S.T. de Freitas
+- Sofia
 - H. Kolstein
 - F. Bijlaard
 date: '2011-01-01'
@@ -21,7 +21,7 @@ abstract: A sandwich system of two steel faces and a polyurethane core is studie
   on the deck plate can be reduced by 60-95% using this renovation system. © The Author(s)
   2010.
 tags:
-- '[Orthotropic steel bridge decks'
+- 'Orthotropic steel bridge decks'
 - renovation
 - sandw
 ---

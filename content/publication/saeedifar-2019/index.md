@@ -3,8 +3,8 @@ title: Structural health monitoring of adhesively-bonded hybrid joints by acoust
   emission
 authors:
 - M. Saeedifar
-- M.N. Saleh
-- S.T. De Freitas
+- M. N. Saleh
+- Sofia
 - D. Zarouchas
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:44.093771Z'

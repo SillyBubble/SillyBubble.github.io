@@ -2,7 +2,7 @@
 title: Measuring thermal diffusion in fiber metal laminates
 authors:
 - B. Müller
-- S.T. De Freitas
+- Sofia
 - J. Sinke
 date: '2014-01-01'
 publishDate: '2025-03-20T07:54:44.307745Z'

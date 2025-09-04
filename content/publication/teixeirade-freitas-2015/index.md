@@ -1,7 +1,7 @@
 ---
 title: Test method to assess interface adhesion in composite bonding
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Jos Sinke
 date: '2015-01-01'
 publishDate: '2025-03-20T07:54:44.047481Z'

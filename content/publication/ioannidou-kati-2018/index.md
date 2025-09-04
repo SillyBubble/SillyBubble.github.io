@@ -5,7 +5,7 @@ authors:
 - Anna Ioannidou-Kati
 - Manuel Santarsiero
 - Peter de Vries
-- Sofia Teixeira de Freitas
+- Sofia
 - Rob Nijsse
 - Christian Louter
 date: '2018-01-01'

@@ -2,9 +2,9 @@
 title: Susceptor-assisted induction curing behaviour of a two component epoxy paste
   adhesive for aerospace applications
 authors:
-- C Severijns
-- S T de Freitas
-- J A Poulis
+- C. Severijns
+- Sofia
+- J. A. Poulis
 date: '2017-01-01'
 publishDate: '2025-03-20T07:54:44.067666Z'
 publication_types:

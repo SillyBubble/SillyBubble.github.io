@@ -1,7 +1,7 @@
 ---
 title: Fatigue Assessment of Full-Scale Retrofitted Orthotropic Bridge Decks
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Henk Kolstein
 - Frans Bijlaard
 date: '2017-01-01'

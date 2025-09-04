@@ -4,8 +4,8 @@ title: Towards pure mode I loading in dissimilar adhesively bonded double cantil
 authors:
 - M. Moazzami
 - M. R. Ayatollahi
-- S. Teixeira de Freitas
-- L. F.M. da Silva
+- Sofia
+- L. F. M. da Silva
 date: '2021-06-01'
 publishDate: '2025-03-20T07:54:43.997565Z'
 publication_types:

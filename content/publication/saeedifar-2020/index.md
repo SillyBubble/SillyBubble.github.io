@@ -5,7 +5,7 @@ authors:
 - Milad Saeedifar
 - Mohamed Nasr Saleh
 - Hassan M. El-Dessouky
-- Sofia Teixeira De Freitas
+- Sofia
 - Dimitrios Zarouchas
 date: '2020-01-01'
 publishDate: '2025-03-20T07:54:44.517065Z'

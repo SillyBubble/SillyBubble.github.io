@@ -5,7 +5,7 @@ authors:
 - M. Moazzami
 - A. Akhavan-Safar
 - M. R. Ayatollahi
-- e̊lax Johannes. A. Poulis
+- Johannes. A. Poulis
 - L. F. M. da Silva
 - Sofia
 date: '2024-11-01'

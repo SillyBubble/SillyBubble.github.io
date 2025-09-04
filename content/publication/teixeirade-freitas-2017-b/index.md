@@ -2,7 +2,7 @@
 title: 'Failure analysis of adhesively-bonded metal-skin-to-composite-stiffener: Effect
   of temperature and cyclic loading'
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Jos Sinke
 date: '2017-01-01'
 publishDate: '2025-03-20T07:54:44.416773Z'

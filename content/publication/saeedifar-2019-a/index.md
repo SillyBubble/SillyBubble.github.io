@@ -4,7 +4,7 @@ title: Damage characterization of adhesively-bonded Bi-material joints using aco
 authors:
 - Milad Saeedifar
 - Mohamed Nasr Saleh
-- Sofia Teixeira De Freitas
+- Sofia
 - Dimitrios Zarouchas
 date: '2019-01-01'
 publishDate: '2025-03-20T07:54:44.509255Z'

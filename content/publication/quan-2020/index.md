@@ -6,7 +6,7 @@ authors:
 - R. Alderliesten
 - C. Dransfeld
 - I. Tsakoniatis
-- S. Teixeira De Freitas
+- Sofia
 - G. Scarselli
 - N. Murphy
 - A. Ivanković

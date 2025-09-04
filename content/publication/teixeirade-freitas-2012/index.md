@@ -2,7 +2,7 @@
 title: Structural monitoring of a strengthened orthotropic steel bridge deck using
   strain data
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Henk Kolstein
 - Frans Bijlaard
 date: '2012-01-01'

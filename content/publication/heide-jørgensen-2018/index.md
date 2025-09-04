@@ -3,7 +3,7 @@ title: 'On the fracture behaviour of CFRP bonded joints under mode I loading: Ef
   of supporting carrier and interface contamination'
 authors:
 - Simon Heide-Jørgensen
-- Sofia Teixeira de Freitas
+- Sofia
 - Michal K. Budzik
 date: '2018-05-01'
 publishDate: '2025-03-20T07:54:44.267138Z'

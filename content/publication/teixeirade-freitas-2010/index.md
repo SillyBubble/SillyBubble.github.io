@@ -1,7 +1,7 @@
 ---
 title: Composite bonded systems for renovations of orthotropic steel bridge decks
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Henk Kolstein
 - Frans Bijlaard
 date: '2010-01-01'

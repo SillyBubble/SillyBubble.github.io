@@ -3,7 +3,7 @@ title: Unfolding the early fatigue damage process for CFRP cross-ply laminates
 authors:
 - X. Li
 - J. Kupski
-- S. Teixeira De Freitas
+- Sofia
 - R. Benedictus
 - D. Zarouchas
 date: '2020-01-01'

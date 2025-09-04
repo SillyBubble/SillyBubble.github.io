@@ -3,7 +3,7 @@ title: 'Ultrasonic welding of epoxy- to polyetheretherketone- based composites: 
   on the material of the energy director and the thickness of the coupling layer'
 authors:
 - Eirini Tsiangou
-- Sofia Teixeira de Freitas
+- Sofia
 - Irene Fernandez Villegas
 - Rinze Benedictus
 date: '2020-01-01'

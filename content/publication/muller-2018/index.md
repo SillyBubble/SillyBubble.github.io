@@ -3,7 +3,7 @@ title: Out-of-autoclave manufacturing of GLARE panels using resistance heating
 authors:
 - Bernhard Müller
 - Genevieve Palardy
-- Sofia Teixeira De Freitas
+- Sofia
 - Jos Sinke
 date: '2018-01-01'
 publishDate: '2025-03-20T07:54:44.205318Z'

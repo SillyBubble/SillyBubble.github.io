@@ -1,7 +1,7 @@
 ---
 title: 'Bondline thickness: Fracture mechanics perspective'
 authors:
-- Sofia Teixeira de Freitas
+- Sofia
 - Michal K. Budzik
 date: '2023-01-01'
 publishDate: '2025-03-20T07:54:44.574512Z'

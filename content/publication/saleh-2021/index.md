@@ -2,10 +2,10 @@
 title: The effect of modified tannic acid (TA) eco-epoxy adhesives on mode I fracture
   toughness of bonded joints
 authors:
-- Mohamed Nasr Saleh
+- Mohamed
 - Nataša Z. Tomić
 - Aleksandar Marinković
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2021-01-01'
 publishDate: '2025-03-20T07:54:44.026540Z'
 publication_types:

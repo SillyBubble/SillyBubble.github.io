@@ -1,7 +1,7 @@
 ---
 title: Lightweight reinforcement systems for orthotropic bridge decks
 authors:
-- S. Teixeira De Freitas
+- Sofia
 - H. Kolstein
 - F. Bijlaard
 date: '2013-01-01'
@@ -22,7 +22,7 @@ abstract: 'Two systems for reinforcing orthotropic bridge deck (OBD) have been r
   performance and proved to be efficient lightweight solutions to refurbish orthotropic
   bridge decks and extend their life span.'
 tags:
-- '[Adhesive bonding'
+- 'Adhesive bonding'
 - Bridges
 - Refurbishment
 - Reinfor

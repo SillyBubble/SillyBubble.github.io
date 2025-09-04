@@ -1,10 +1,10 @@
 ---
 title: Stress analysis of double-lap bi-material joints bonded with thick adhesive
 authors:
-- Mohamed Nasr Saleh
+- Mohamed
 - Milad Saeedifar
 - Dimitrios Zarouchas
-- Sofia Teixeira De Freitas
+- Sofia
 date: '2020-01-01'
 publishDate: '2025-03-20T07:54:44.103181Z'
 publication_types:

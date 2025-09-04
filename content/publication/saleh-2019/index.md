@@ -1,10 +1,10 @@
 ---
 title: Compression after multiple low velocity impacts of NCF, 2D and 3D woven composites
 authors:
-- Mohamed Nasr Saleh
+- Mohamed
 - Hassan M. El-Dessouky
 - M. Saeedifar
-- Sofia Teixeira De Freitas
+- Sofia
 - Richard J. Scaife
 - Dimitrios Zarouchas
 date: '2019-01-01'

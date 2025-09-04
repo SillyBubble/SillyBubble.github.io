@@ -1,7 +1,7 @@
 ---
 title: Lightweight reinforcement systems for fatigue-cracked orthotropic bridge decks
 authors:
-- S.T. De Freitas
+- Sofia
 - H. Kolstein
 - F. Bijlaard
 date: '2013-01-01'
@@ -24,7 +24,7 @@ abstract: 'Two systems for reinforcing \"in-service\" orthotropic bridge decks (
   reinforcement systems showed a good performance and proved to be efficient lightweight
   solutions to refurbish orthotropic bridge decks anDextend their life span.'
 tags:
-- '[Adhesive bonding'
+- 'Adhesive bonding'
 - Bridges
 - Orthotropic decks
 - Ref

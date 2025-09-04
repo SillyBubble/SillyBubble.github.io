@@ -4,7 +4,7 @@ title: On the sensitivity of ultrasonic welding of epoxy- to polyetheretherketon
 authors:
 - Eirini Tsiangou
 - Julian Kupski
-- Sofia Teixeira de Freitas
+- Sofia
 - Rinze Benedictus
 - Irene Fernandez Villegas
 date: '2021-01-01'

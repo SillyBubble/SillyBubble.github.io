@@ -2,10 +2,10 @@
 title: 'Multi-material adhesive joints with thick bond-lines: Crack onset and crack
   deflection'
 authors:
-- Romina Lopes Fernandes
+- Romina
 - Michal K. Budzik
 - Rinze Benedictus
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2021-06-01'
 publishDate: '2025-03-20T07:54:44.286691Z'
 publication_types:
