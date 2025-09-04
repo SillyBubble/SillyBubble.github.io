@@ -6,7 +6,7 @@ event_url:
 
 location: Faculty of Engineering - University of Porto
 
-summary: An international conference.
+summary: International conference.
 abstract: 'AB2025 focuses on structural bonding, including all relevant areas of bonding.'
 
 # Talk start and end times.
@@ -52,6 +52,24 @@ projects:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
+
+**Oral Presentations:**
+
+- Mode I characterization of co-bonded CFRP onto patterned LPBF metal adherends, Andrea Corrado
+
+- Strengthening steel plates with adhesively bonded hybrid carbon/flax patches: Effects of water immersion aging on flexural properties, Mohamed Amine TAZI
+
+- Fracture behaviour of tailored adhesively bonded joints: how substrate bending stiffness influences crack deflection, Rosemere de Araujo Alves Lima
+
+- Bio-inspired 3D-printed microstructure for crack arresting in biobased epoxy matrix, Zhiyuan Xu
+
+- Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcement, Sofia Teixeira de Freitas
+
+**Poster Presentations:**
+
+- Bio-inspired 3D-printed microstructure for crack arresting in bio-based epoxy matrix, Zhiyuan Xu
+
+
 <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
   <img src="/images/AB2025_view.jpg" width="800" />
 </div>

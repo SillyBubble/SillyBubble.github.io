@@ -11,7 +11,7 @@ address:
   postcode: 1049-001
   country: Portugal
 
-summary: A full-day workshop.
+summary: Full-day workshop.
 abstract: 'A full-day event bringing together leading researchers, Interact Research Lab members, and students to explore the latest developments in sustainable bonding solutions.'
 
 # Talk start and end times.
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-01T00:00:00Z'
 
-authors: []
+authors: [none]
 tags: []
 
 # Is this a featured talk? (true/false)

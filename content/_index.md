@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: ECCM21
-        content: 
+        content: 21st European Conference on Composite Materials for Academia adn Industry, Nantes
         align: left
         background:
           image:
@@ -20,7 +20,7 @@ sections:
             position: right
           color: '#000000'
       - title: Lisboa Workshop 2025
-        content: 
+        content: Advancements in Circular Design of Adhesively Bonded Joints & Toughening Strategies, Lisboa
         align: left
         background:
           image:
@@ -31,7 +31,7 @@ sections:
             position: right
           color: '#000000'
       - title: AB2025
-        content: 
+        content: 8th International Conference on Adhesive Bonding, Porto
         align: left
         background:
           image:
@@ -42,7 +42,7 @@ sections:
             position: right
           color: '#000'
       - title: AB2025
-        content: 
+        content: 8th International Conference on Adhesive Bonding, Porto
         align: left
         background:
           image:
@@ -55,7 +55,7 @@ sections:
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '500px'
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true

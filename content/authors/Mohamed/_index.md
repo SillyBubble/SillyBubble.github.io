@@ -50,7 +50,7 @@ social:
   #   link: 'mailto:Z.Xu-8@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mohamed-nasr-saleh-a0988424/details/education/
+    link: https://www.linkedin.com/in/mohamed-nasr-saleh-a0988424/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?hl=en&user=OFanty4AAAAJ

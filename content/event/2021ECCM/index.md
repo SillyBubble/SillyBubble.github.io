@@ -1,5 +1,5 @@
 ---
-title: 21st European Conference on Composite Materials for Academia adn Industry
+title: 21st European Conference on Composite Materials for Academia and Industry
 
 event: Conference
 event_url: 
@@ -7,7 +7,7 @@ event_url:
 location: La Cité Nantes Events Center
 
 
-summary: An international conference.
+summary: International conference.
 abstract: 'ECCM21 is the global meeting point for composite material experts. Offering a dynamic platform for innovation, it is a unique opportunity to learn, network, and explore the future of composites.'
 
 # Talk start and end times.
@@ -56,3 +56,13 @@ projects:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
+
+**Oral Presentations:**
+
+- Reinforcement of damaged steel beams using flax fiber reinforced polymer patches, Mohamed Amine TAZI
+
+- Disruptiving fracture toughness of adhesively bonded joints by tailoring composite substrates, Rosemere de Araujo Alves Lima
+
+- Bio-inspired 3D-printed microstructure for crack arresting in biobased epoxy matrix, Zhiyuan Xu
+
+- Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcements, Ran Tao

@@ -7,13 +7,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: ""
+      title: "**Tailoring Composite Substrates**"
       image:
         filename: Rose_poster.png
       text: >
-        **Tailoring Composite Substrates**
-        <br />
-        @Técnico @TU Delft
+        *@Técnico @TU Delft*
         <br />
 
         Efforts to reduce CO2 emissions and improve sustainability in the aeronautical sector have been increasing, leading to new solutions to **extend aircraft’s operational life and reuse of multi-material and composite components**. Furthermore, the industry is striving towards more efficient, sustainable, and lightweight aircraft. However, one of the **challenges that needs to be tackled is the assembly and repair of advanced material components** in primary structures.
@@ -31,13 +29,11 @@ sections:
 
   - block: hero
     content:
-      title: ""
+      title: "**Biomimetic Toughening Structures**"
       image:
         filename: Ran_poster.png
       text: >
-        **Biomimetic Toughening Structures**
-        <br />
-        @TU Delft
+        *@TU Delft*
         <br />
 
         Climate change is a major global issue that impacts both the environment and human society, requiring an immediate effort to enhance sustainability in the mobility and energy sectors. Adhesive joints of lightweight composite structures offer great potential for more efficient and environmentally friendly designs, but ensuring their safety and reliability remains a major challenge.
@@ -54,13 +50,11 @@ sections:
 
   - block: hero
     content:
-      title: ""
+      title: "**REVOLUTIONising WIND blade life-cycle through circular design and Condition-Based Monitoring using multifunctional self-sensing 3D printed bonded structures and a multi-modal machine learning approach**"
       image:
         filename: REVOLUTION_WIND.png
       text: >
-        **REVOLUTIONising WIND blade life-cycle through circular design and Condition-Based Monitoring using multifunctional self-sensing 3D printed bonded structures and a multi-modal machine learning approach**
-        <br />
-        @Técnico
+        *@Técnico*
         <br />
 
         The challenge of climate change poses a significant threat to humanity. It is essential to prioritise renewable and cost-effective energy sources while simultaneously reducing greenhouse gas emissions for the benefit of future generations. One of the primary solutions lies in the new generation of larger, segmented and more efficient wind blades.
@@ -87,19 +81,16 @@ sections:
 
   - block: hero
     content:
-      title: ""
+      title: "**Metal-to-composite Interfaces**"
       image:
         filename: MetalComposite_Bonding.png
       text: >
-        **Metal-to-composite Interfaces**
-        <br />
-        @TU Delft
+        *@TU Delft*
         <br />
 
         Aerospace and automotive industries are under increasing pressure to reduce product weight in response to strict environmental regulations and the demand for lower operational costs. Adhesively bonded lightweight composites offer a promising route toward more efficient and sustainable designs. However, their safe and reliable application remains a key challenge.
         
         This project develops innovative methods for fracture characterization of bi-material bonded joints, with a particular focus on **metal-to-polymer interfaces**. By uncovering the underlying interfacial mechanisms, the research supports the reliable integration of composites with conventional metal-based structures, enabling stronger, lighter, and more sustainable engineering solutions.
-
 
         <br />
         <br />
