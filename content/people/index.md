@@ -15,6 +15,7 @@ sections:
           - Postdoc Researcher
           - PhD Candidate
           - Master Student
+          - BSc Student
           - Collaborator
       sort_by: Params.last_name
       sort_ascending: true
@@ -84,5 +85,11 @@ sections:
         - Cristina Mestre Rodriguez
 
         - Michal Skarka
+
+  - block: markdown
+    content:
+      title: Alumni BSc
+      text: >
+        - 
 
 ---

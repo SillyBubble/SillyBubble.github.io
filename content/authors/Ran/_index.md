@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: My research interests in toughening composite structures through innovative heterogenous designs, for creating sustainable, reliable, and high-performance bonded joints.
 
 interests:
   - Adhesive joints
