@@ -57,8 +57,20 @@ projects:
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 
+**Oral Presentations:**
+
+- [Sofia Teixeira de Freitas](/author/sofia-teixeira-de-freitas/) - Pure Mode I in bi-material bonded DCB joints
+
 **Poster Presentations:**
 
 - [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - Enhancing the Damage Tolerance of Adhesively Bonded Joints by architecting CFRP layup
 
 - [Ran Tao](/author/ran-tao/) - 3D-printed biomimetic reinforcements for toughening bio-based epoxy adhesive (**Best Poster Prize**)
+
+<div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
+  <img src="/content/event/2024ESIS/Presentation.jpg" width="300" />
+  <img src="/content/event/2024ESIS/Poster_Rose.jpg" width="300" />
+  <img src="/content/event/2024ESIS/Poster_Ran.jpg" width="300" />
+  <img src="/content/event/2024ESIS/View.jpg" width="300" />
+  <img src="/content/event/2024ESIS/Participant.jpeg" width="600" />
+</div>
