@@ -1,29 +1,25 @@
 ---
-title: Advancements in Circular Design of Adhesively Bonded Joints & Toughening Strategies
+title: 9th International Conference on the Fracture of Polymers and Composites
 
-event: Workshop
-event_url: flyer.pdf
+event: Conference
+event_url: 
 
-location: Tecnico Lisboa, Lisben
-address:
-  street: Av. Rovisco Pais 1
-  city: Lisbon
-  postcode: 1049-001
-  country: Portugal
+location: Les Diablerets
+
 
 summary: 
-abstract: 'A full-day event bringing together leading researchers, Interact Research Lab members, and students to explore the latest developments in sustainable bonding solutions.'
+abstract: 'The 9th International Conference in the series is organised by the European Structural Integrity Society - Technical Committee 4, on *Fracture Mechanics* related to *Polymers, Polymer Composites and Adhesives*.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-08T10:00:00Z'
-date_end: '2025-07-08T17:30:00Z'
-all_day: false
+date: '2024-03-24T10:00:00Z'
+date_end: '2024-03-27T17:30:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-01T00:00:00Z'
 
-authors: [Workshop]
+authors: [Conference]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -60,6 +56,9 @@ projects:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
-<div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
-  <img src="/images/Lisboa.jpg" width="800" />
-</div>
+
+**Poster Presentations:**
+
+- [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - Enhancing the Damage Tolerance of Adhesively Bonded Joints by architecting CFRP layup
+
+- [Ran Tao](/author/ran-tao/) - 3D-printed biomimetic reinforcements for toughening bio-based epoxy adhesive (**Best Poster Prize**)

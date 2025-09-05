@@ -6,7 +6,7 @@ event_url:
 
 location: Faculty of Engineering - University of Porto
 
-summary: International conference.
+summary: 
 abstract: 'AB2025 focuses on structural bonding, including all relevant areas of bonding.'
 
 # Talk start and end times.
@@ -15,7 +15,7 @@ date: 2025-07-10T09:00:00Z
 date_end: 2025-07-11T18:30:00Z
 all_day: true
 
-authors: [none]
+authors: [Conference]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -55,19 +55,21 @@ Further event details, including page elements such as image galleries, can be a
 
 **Oral Presentations:**
 
-- Mode I characterization of co-bonded CFRP onto patterned LPBF metal adherends, Andrea Corrado
+- [Marcello Calì](/author/marcello-cali/) - From beams to plates: a new Macro-Element for the simplified analysis of bonded joints
 
-- Strengthening steel plates with adhesively bonded hybrid carbon/flax patches: Effects of water immersion aging on flexural properties, Mohamed Amine TAZI
+- [Andrea Corrado](/author/andrea-corrado/) - Mode I characterization of co-bonded CFRP onto patterned LPBF metal adherends
 
-- Fracture behaviour of tailored adhesively bonded joints: how substrate bending stiffness influences crack deflection, Rosemere de Araujo Alves Lima
+- [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - Fracture behaviour of tailored adhesively bonded joints: how substrate bending stiffness influences crack deflection
 
-- Bio-inspired 3D-printed microstructure for crack arresting in biobased epoxy matrix, Zhiyuan Xu
+- [Michele Gulino](/author/michele-gulino/) - Mode I fracture toughness of co-bonded metal-composite joints with additively manufactured titanium: Influence of printing parameters
 
-- Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcement, Sofia Teixeira de Freitas
+- [Mohamed Amine TAZI](/author/mohamed-amine-tazi/) and [Silvio De Barros](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsilvio-de-barros-80995316%2F&data=05%7C02%7CR.Tao%40tudelft.nl%7C5907a9001f744c1b344f08ddec7bd588%7C096e524d692940308cd38ab42de0887b%7C0%7C0%7C638926739132034337%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aI3eG6y0CRwDIVTyYwP1RKx83nnG%2BqcVvrMslDZ2vDc%3D&reserved=0) - Strengthening steel plates with adhesively bonded hybrid carbon/flax patches: Effects of water immersion aging on flexural properties
+
+- [Sofia Teixeira de Freitas](/author/sofia-teixeira-de-freitas/) and [Ran Tao](/author/ran-tao/) - Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcement
 
 **Poster Presentations:**
 
-- Bio-inspired 3D-printed microstructure for crack arresting in bio-based epoxy matrix, Zhiyuan Xu
+- [Zhiyuan Xu](/author/zhiyuan-xu/) - Bio-inspired 3D-printed microstructure for crack arresting in bio-based epoxy matrix
 
 
 <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">

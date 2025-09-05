@@ -7,19 +7,19 @@ event_url:
 location: La Cité Nantes Events Center
 
 
-summary: International conference.
+summary: 
 abstract: 'ECCM21 is the global meeting point for composite material experts. Offering a dynamic platform for innovation, it is a unique opportunity to learn, network, and explore the future of composites.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-02T10:00:00Z'
-date_end: '2024-07-05T17:30:00Z'
+date: '2024-07-02T09:00:00Z'
+date_end: '2024-07-05T18:30:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-05-01T00:00:00Z'
+publishDate: '2025-09-01T00:00:00Z'
 
-authors: [none]
+authors: [Conference]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -59,10 +59,12 @@ Further event details, including page elements such as image galleries, can be a
 
 **Oral Presentations:**
 
-- Reinforcement of damaged steel beams using flax fiber reinforced polymer patches, Mohamed Amine TAZI
+- [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - Disruptiving fracture toughness of adhesively bonded joints by tailoring composite substrates
 
-- Disruptiving fracture toughness of adhesively bonded joints by tailoring composite substrates, Rosemere de Araujo Alves Lima
+- [Mohamed Amine TAZI](/author/mohamed-amine-tazi/) - Reinforcement of damaged steel beams using flax fiber reinforced polymer patches
 
-- Bio-inspired 3D-printed microstructure for crack arresting in biobased epoxy matrix, Zhiyuan Xu
+- [Michele Gulino](/author/michele-gulino/) - Effect of the Surface Morphology on the Mode I Fracture Toughness in Metal-Composite Joints with 3D Printed Titanium Substrates
 
-- Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcements, Ran Tao
+- [Zhiyuan Xu](/author/zhiyuan-xu/) - Bio-inspired 3D-printed microstructure for crack arresting in biobased epoxy matrix
+
+- [Ran Tao](/author/ran-tao/) - Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimetic reinforcements

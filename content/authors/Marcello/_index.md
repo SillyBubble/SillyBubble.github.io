@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Marcelo Cali
+title: Marcello Cali
 
 # Full name (for SEO)
-first_name: Marcelo
+first_name: Marcello
 last_name: Cali
 
 # Username (this should match the folder name)
 authors:
-  - Marcelo
+  - Marcello
 
 # Is this the primary user of the site?
 superuser: false
@@ -72,4 +72,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Marcelo is a PhD candidate co-supervised by Sofia, working on *Machine Learning algorithms for the analysis of adhesively bonded joints*.
+Marcello is a PhD candidate co-supervised by Sofia, working on *Machine Learning algorithms for the analysis of adhesively bonded joints*.
