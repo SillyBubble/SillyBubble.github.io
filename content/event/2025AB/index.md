@@ -73,5 +73,5 @@ Further event details, including page elements such as image galleries, can be a
 
 
 <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
-  <img src="/images/AB2025_view.jpg" width="800" />
+  <img src="AB2025_view.jpg" width="800" />
 </div>

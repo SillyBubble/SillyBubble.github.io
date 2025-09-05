@@ -61,5 +61,5 @@ projects:
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 <div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
-  <img src="/images/Lisboa.jpg" width="800" />
+  <img src="Lisboa.jpg" width="800" />
 </div>

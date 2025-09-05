@@ -67,10 +67,15 @@ Further event details, including page elements such as image galleries, can be a
 
 - [Ran Tao](/author/ran-tao/) - 3D-printed biomimetic reinforcements for toughening bio-based epoxy adhesive (**Best Poster Prize**)
 
-<div style="display:flex; flex-wrap:wrap; gap:5px; justify-content:center;">
-  <img src="/content/event/2024ESIS/Presentation.jpg" width="300" />
-  <img src="/content/event/2024ESIS/Poster_Rose.jpg" width="300" />
-  <img src="/content/event/2024ESIS/Poster_Ran.jpg" width="300" />
-  <img src="/content/event/2024ESIS/View.jpg" width="300" />
-  <img src="/content/event/2024ESIS/Participant.jpeg" width="600" />
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+  gap: 0px 5px;
+  justify-items: center;
+">
+  <img src="Presentation.jpg" style="width:320px;" />
+  <img src="Poster_Rose.jpg" style="width:320px;" />
+  <img src="Poster_Ran.jpg" style="width:320px;" />
+  <img src="View.jpg" style="width:320px;" />
+  <!-- <img src="Participant.jpeg" style="width:100%; max-width:300px;" /> -->
 </div>
