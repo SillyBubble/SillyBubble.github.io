@@ -50,13 +50,14 @@ sections:
 
   - block: hero
     content:
-      title: "**REVOLUTIONising WIND blade life-cycle through circular design and Condition-Based Monitoring using multifunctional self-sensing 3D printed bonded structures and a multi-modal machine learning approach**"
+      title: "**REVOLUTION_WIND**"
       image:
         filename: REVOLUTION_WIND.png
       text: >
+        **REVOLUTIONising WIND blade life-cycle through circular design and Condition-Based Monitoring using multifunctional self-sensing 3D printed bonded structures and a multi-modal machine learning approach**
+        <br />
         *@Técnico*
         <br />
-
         The challenge of climate change poses a significant threat to humanity. It is essential to prioritise renewable and cost-effective energy sources while simultaneously reducing greenhouse gas emissions for the benefit of future generations. One of the primary solutions lies in the new generation of larger, segmented and more efficient wind blades.
         
         The **REVOLUTION_WIND** project aims to enhance the circularity and damage tolerance of the new generation of larger and segmented wind blades by embedding a multifunctional self-sensing 3D printed structure within a reversible adhesive layer. The project will use a combination of supervised machine learning and experimental characterisation to devise a multi-modal monitoring system that can accurately predict the remaining useful life of the reversible adhesively bonded joints. The most cutting-edge outcome of **REVOLUTION_WIND** is a multifunctional 3D printed self-sensing structure that will work as an embedded reinforcement and generate input data for a machine learning framework for in-situ life assessment of the structural integrity of reversible adhesively bonded joints.
