@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Z.Xu-8@tudelft.nl'
+    link: 'mailto:andrea.corrado@unitn.it'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andrea-corrado-14358019b/
