@@ -22,15 +22,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bi-material joining.
+bio: I’m interested in analysing the interface toughening mechanisms of bi-material junctions between FRP and metals, by using Additive Manufacturing technique. A correlated Finite Element Model is used to optimize the metal substrate.
 
 interests:
-  - 3D print
-  - Bi-material joining
+  - Additive Manufacturing of metals
+  - Finite Element Simulations
+  - Adhesive joints
+  - Composite materials
+  - CAD designs
+
 
 education:
   courses:
-    - course: MSc in Mechatronic Engineering
+    - course: MSc in Industrial engineering with a specialization in Mechatronics
       institution: University of Trento
       year: 2023
     - course: BSc in Industrial Engineering, Mechatronics Orientation
@@ -67,4 +71,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Andrea is a PhD candidate co-supervised by Sofia, working in 3D printing and bi-material joining.
+Andrea Corrado is a PhD candidate at University of Trento, Italy. He got a master’s degree in Industrial engineering with a specialization in Mechatronics and in parallel he worked in the Formula Student team of the University in the mechanical department for five years. Since November 2023, he is following an Industrial PhD program, in collaboration with company ProM Facility, entitled “Development of industrial products through additive manufacturing of low-environmental-impact” under the supervision of Prof. Matteo Benedetti and Ing. Matteo Perini. A collaboration with Prof. Sofia Teixeira de Freitas started in 2024 with an internship of 6 months at Tu Delft. His work aims to enhance the interfacial properties of be-material junctions by introducing specific interlocking mechanisms, manufactured via Additive Manufacturing technology. A correlation between tests and Finite Element Models is performed and an optimization process is used to find the optimum configuration.
