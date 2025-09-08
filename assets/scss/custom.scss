@@ -11,3 +11,27 @@
   height: auto;
   border-radius: 8px;
 }
+
+/* Change hero title size */
+.wg-hero .hero-title {
+  font-size: 2.0rem;   // smaller than default
+}
+
+/* Change hero subtitle size */
+.wg-hero .hero-subtitle {
+  font-size: 1.0rem;
+}
+
+/* Change hero text (body) */
+.wg-hero .hero-text {
+  font-size: 0.8rem;
+}
+
+.wg-hero .hero-lead {
+  font-size: 1.0rem;
+}
+
+/* Change markdown size */
+.wg-markdown .col-12 {
+  font-size: 0.8rem;
+}

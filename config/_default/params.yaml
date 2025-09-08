@@ -101,6 +101,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  custom_scss: ["scss/custom.scss"]
 
 # Extensions
 

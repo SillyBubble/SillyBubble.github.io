@@ -18,7 +18,6 @@ sections:
         
         This project aims to enhance the damage tolerance of secondary adhesively bonded joints by architecting their CFRP layups and exploring the effects of adhesives with different fracture toughness.
 
-
         <br />
         <br />
         **Researchers:**
@@ -26,6 +25,8 @@ sections:
         - [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/)
 
         - [Marcelo Cali](/author/marcelo-cali/)
+      design:
+        css_class: "custom.scss"
 
   - block: hero
     content:
@@ -47,6 +48,8 @@ sections:
         - [Zhiyuan Xu](/author/zhiyuan-xu/)
 
         - [Ran Tao](/author/ran-tao/)
+      design:
+        css_class: "custom.scss"
 
   - block: hero
     content:
@@ -78,7 +81,8 @@ sections:
         **Researchers:**
 
         - [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/)
-
+      design:
+        css_class: "custom.scss"
 
   - block: hero
     content:
@@ -104,6 +108,8 @@ sections:
         - [Michele Gulino](/author/michele-gulino/)
 
         - [Andrea Corrado](/author/andrea-corrado/)
+      design:
+        css_class: "custom.scss"
 
   - block: markdown
     content:
@@ -123,6 +129,8 @@ sections:
         -	HORIZON 2020, CleanSky2, European Union - TICO-AJO: TItanium COmposite Adhesive JOints. 2016-2018
 
         -	HORIZON 2020, European Union - EFFICOMP: Efficient Composite parts manufacturing. 2016-2020.
+      design:
+        css_class: "custom.scss"
  
 
   # - block: slider
