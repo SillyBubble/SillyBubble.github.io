@@ -66,4 +66,4 @@ user_groups:
   - BSc Student
 ---
 
-Theo is a BSc student in CESI. I am having an internship at Instituto Superior Técnico supervised by Sofia.
+Theo is a BSc student in CESI. I am having an internship at Instituto Superior Técnico supervised by Sofia, working on characterizing and evaluating the fatigue behavior of composite assemblies.
