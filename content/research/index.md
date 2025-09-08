@@ -24,7 +24,7 @@ sections:
 
         - [Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/)
 
-        - [Marcelo Cali](/author/marcelo-cali/)
+        - [Marcelo Calì](/author/marcelo-cali/)
       design:
         css_class: "custom.scss"
 

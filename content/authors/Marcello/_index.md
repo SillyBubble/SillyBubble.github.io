@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Marcello Cali
+title: Marcello Calì
 
 # Full name (for SEO)
 first_name: Marcello
-last_name: Cali
+last_name: Calì
 
 # Username (this should match the folder name)
 authors:
