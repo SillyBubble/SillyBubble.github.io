@@ -71,6 +71,7 @@ highlight_name: true
 user_groups:
   - PhD Candidate
 ---
+
 Marcello Calì is a PhD candidate co-supervised by Sofia at ISAE-Supaero, Toulouse, France. He graduated with a Master's Degree in Aerospace Engineering from the University of Naples Federico II, Italy, in 2023.
 
 His research focuses on the modeling of adhesively bonded joints through the integration of machine learning algorithms into established simulation frameworks.
