@@ -36,8 +36,6 @@ tags:
 - Laser powder bed fusion (LPBF)
 - Titanium Ti6Al4V
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

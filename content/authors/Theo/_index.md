@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - BSc Student
+  - Alumni
 ---
 
 Theo is a BSc student in CESI. I am having an internship at Instituto Superior Técnico supervised by Sofia, working on characterizing and evaluating the fatigue behavior of composite assemblies.

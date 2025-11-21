@@ -35,8 +35,6 @@ tags:
 - Fracture toughness
 - Secondary bonded joints
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

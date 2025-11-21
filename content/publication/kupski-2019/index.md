@@ -33,8 +33,6 @@ tags:
 - Composite layup variation
 - Single lap joints
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

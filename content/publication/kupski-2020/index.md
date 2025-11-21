@@ -35,8 +35,6 @@ tags:
 - Joints/joining
 - Thin-ply composites
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

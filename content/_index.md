@@ -8,6 +8,17 @@ sections:
   - block: slider
     content:
       slides:
+      - title: Special Session for ECCM22
+        content: 'Call for Contributions - Advanced Composite Materials and Structures: Multifunctional Design, Damage Diagnostics, Testing, and Modeling'
+        align: left
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.8
+            size: contain
+            position: right
+          color: '#000000'
       - title: ECCM21
         content: 21st European Conference on Composite Materials for Academia and Industry, Nantes
         align: left

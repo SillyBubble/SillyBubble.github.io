@@ -47,8 +47,6 @@ tags:
 - Joint topology
 - ply interleaving technique
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

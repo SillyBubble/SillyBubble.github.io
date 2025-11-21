@@ -31,8 +31,6 @@ tags:
 - Joint topology
 - Review
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 

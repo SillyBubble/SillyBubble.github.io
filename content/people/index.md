@@ -96,6 +96,8 @@ sections:
     content:
       title: Alumni BSc
       text: >
+        - Théo Maillère, Instituto Superior Técnico-CESI, France, 2025
+
         - HO XUAN Ngoc Chau, TU Delft–ENSMA, France, 2023
 
         - Arthur Breau, TU Delft–ESTA Bretagne, France, 2022

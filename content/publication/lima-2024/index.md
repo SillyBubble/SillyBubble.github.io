@@ -40,8 +40,6 @@ tags:
 - Secondary adhesive bonded joints
 - Toughening mechanisms
 
-tags: []
-
 # Display this page in a list of Featured pages?
 featured: true
 
