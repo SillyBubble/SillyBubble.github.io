@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Clara Onofre
+title: Myriam Edward
 
 # Full name (for SEO)
-first_name: Clara
-last_name: Onofre
+first_name: Myriam
+last_name: Edward
 
 # Username (this should match the folder name)
 authors:
-  - Clara
+  - Myriam
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,21 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Instituto Superior Tecnico
+  - name: INSA Lyon - Institut National des Sciences Appliquées de Lyon
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in 3D printing and bio-inspired toughening designs.
+bio: My research interests in vitrimer adhesive.
 
 interests:
-  - 3D print
-  - Biobased adhesives
+  - Vitrimer adhesive
+  - Adhesive bonding
 
 education:
   courses:
     - course: BSc
-      institution: Instituto Superior Tecnico
-      year: 2025
+      institution: Établissement d'enseignement Teilhard de Chardin
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ social:
   #   link: 'mailto:Z.Xu-8@tudelft.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/claraonofre/
+    link: https://www.linkedin.com/in/myriam-edward-36bb4a332/?originalSubdomain=fr
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +64,4 @@ user_groups:
   - Master Student
 ---
 
-Clara is a MSc student supervsied by Sofia, in 3D printing for reinforcing biobased adhesives.
+Myriam is having an internship at Instituto Superior Técnico supervised by Sofia, working on *Adhesively bonded composite joints using vitrimer adhesives*.

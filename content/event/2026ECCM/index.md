@@ -7,8 +7,8 @@ event_url:
 location: Oslo, Norway
 
 
-summary: 'Special Session - 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐞 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥𝐬 𝐚𝐧𝐝 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬: M𝐮𝐥𝐭𝐢𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐃𝐚𝐦𝐚𝐠𝐞 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐭𝐢𝐜𝐬, 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠'
-abstract: 'We welcome **𝐞𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐬𝐭𝐮𝐝𝐢𝐞𝐬** addressing concepts, methods, and applications related to **𝐌𝐮𝐥𝐭𝐢𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐞𝐬** and **𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐚𝐥 𝐡𝐞𝐚𝐥𝐭𝐡 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠**!'
+summary: 'Special Session - Advanced Composite Materials and Structures: Multifunctional Design, Damage Diagnostics, Testing, and Modeling'
+abstract: 'We welcome **experimental and computational studies** addressing concepts, methods, and applications related to **Multifunctional design approaches** and **Diagnostics and structural health monitoring**!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -65,13 +65,13 @@ Further event details, including page elements such as image galleries, can be a
 
 - [Dr. Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - IDMEC - Instituto Superior Técnico, Lisboa (Portugal)
 
-We are looking for 𝐡𝐢𝐠𝐡-𝐢𝐦𝐩𝐚𝐜𝐭 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 showcasing innovations that bring **𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐞𝐬 𝐜𝐥𝐨𝐬𝐞𝐫 𝐭𝐨 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝, 𝐜𝐚𝐫𝐛𝐨𝐧-𝐧𝐞𝐮𝐭𝐫𝐚𝐥 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬**.
+We are looking for high-impact contributions showcasing innovations that bring **composites closer to real-world, carbon-neutral applications**.
 
 
-We welcome **𝐞𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐬𝐭𝐮𝐝𝐢𝐞𝐬** addressing concepts, methods, and applications related to (but not limited to):
+We welcome **experimental and computational studies** addressing concepts, methods, and applications related to (but not limited to):
 
-- **𝐌𝐮𝐥𝐭𝐢𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐞𝐬**: composite materials and structures with integrated sensing, healing, energy storage, adaptive, and shape-memory capabilities.
+- **Multifunctional design approaches**: composite materials and structures with integrated sensing, healing, energy storage, adaptive, and shape-memory capabilities.
 
-- **𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐚𝐥 𝐡𝐞𝐚𝐥𝐭𝐡 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠**: in-situ methods, non-destructive evaluation, and data-driven damage detection.
+- **Diagnostics and structural health monitoring**: in-situ methods, non-destructive evaluation, and data-driven damage detection.
 
-If your work aligns with these topics, 𝐰𝐞’𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐲𝐨𝐮𝐫 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐢𝐧 𝐨𝐮𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧! See you at the upcoming ECCM22 - 21–25 June 2026, Oslo, Norway!
+If your work aligns with these topics, we'd love to see your contribution in our session! See you at the upcoming ECCM22 - 21-25 June 2026, Oslo, Norway!
