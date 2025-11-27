@@ -1,10 +1,10 @@
 ---
-title: PhD-Fellowships **𝐅𝐮𝐧𝐝𝐚𝐜̧𝐚̃𝐨 “𝐥𝐚 𝐂𝐚𝐢𝐱𝐚” 𝐈𝐍𝐏𝐡𝐈𝐍𝐈𝐓 𝐈𝐧𝐜𝐨𝐦𝐢𝐧𝐠 𝐏𝐡𝐃 𝐅𝐞𝐥𝐥𝐨𝐰𝐬𝐡𝐢𝐩𝐬**
+title: 'PhD-Fellowships 𝐅𝐮𝐧𝐝𝐚𝐜̧𝐚̃𝐨 “𝐥𝐚 𝐂𝐚𝐢𝐱𝐚” 𝐈𝐍𝐏𝐡𝐈𝐍𝐈𝐓 𝐈𝐧𝐜𝐨𝐦𝐢𝐧𝐠 𝐏𝐡𝐃 𝐅𝐞𝐥𝐥𝐨𝐰𝐬𝐡𝐢𝐩𝐬'
 
 event: Opportunity
 event_url: 
 
-location: Lisbon, Portugal
+location: Lisben, Portugal
 
 
 summary: '**𝐅𝐮𝐧𝐝𝐚𝐜̧𝐚̃𝐨 “𝐥𝐚 𝐂𝐚𝐢𝐱𝐚” 𝐈𝐍𝐏𝐡𝐈𝐍𝐈𝐓 𝐈𝐧𝐜𝐨𝐦𝐢𝐧𝐠 𝐏𝐡𝐃 𝐅𝐞𝐥𝐥𝐨𝐰𝐬𝐡𝐢𝐩𝐬**, a𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐚𝐝𝐥𝐢𝐧𝐞: 28 January 2026, 14:00 CET.'
@@ -17,7 +17,7 @@ date_end: '2026-01-28T14:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-12-01T00:00:00Z'
+publishDate: '2025-11-26T00:00:00Z'
 
 authors: [Opportunity]
 tags: []
@@ -58,11 +58,15 @@ projects:
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 
 **What-is-on-offer?**
+
 → Fully-funded PhD fellowships for talented researchers of any nationality at top-rated Portuguese centres.
+
 → Duration: Up to 4 years.
 
 **Key-dates** (2026-call)
+
 → Application-deadline: 28 January 2026, 14:00 CET.
+
 → Who-can-apply?
 - Researchers with no more than 4 years of full-time research experience at the deadline.
 - Must hold a degree that allows PhD enrolment and must not have already started PhD studies.
