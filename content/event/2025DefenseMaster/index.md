@@ -1,5 +1,5 @@
 ---
-title: "Congratulate Clara and Guilherme on completing their Master's"
+title: "Congratulations to Clara and Guilherme on completing their Master's"
 
 event: Defense
 event_url: 
