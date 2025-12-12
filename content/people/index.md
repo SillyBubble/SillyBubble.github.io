@@ -54,6 +54,10 @@ sections:
     content:
       title: Alumni MSc
       text: >
+        - Clara Onofre, *3D printed TPU Skeletons to Upgrade Bio-Based PU Resins*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
+
+        - José Guilherme Vilas Boas Teixeira, *Sustainable 3D Printed TPU Cores/Films to Upgrade Biobased Materials for Aerospace Structures*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
+
         - Luis Pereira, *3D printed microstructures for reinforcing biobased resins*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
 
         - Nkosinathi Peter, *3D printed meta materials for sandwich cores of biobased materials*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2024

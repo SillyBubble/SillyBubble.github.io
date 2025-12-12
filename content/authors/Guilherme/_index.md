@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - Alumni - Master
 ---
 
 Guilherme is a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.
