@@ -66,4 +66,4 @@ user_groups:
   - Alumni - Master
 ---
 
-Guilherme is a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.
+Guilherme was a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.

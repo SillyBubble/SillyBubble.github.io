@@ -64,4 +64,4 @@ user_groups:
   - Alumni - Master
 ---
 
-Clara is a MSc student supervsied by Sofia, in 3D printing for reinforcing biobased adhesives.
+Clara was a MSc student supervsied by Sofia, in 3D printing for reinforcing biobased adhesives.
