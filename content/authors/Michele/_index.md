@@ -25,17 +25,18 @@ organizations:
 bio: My research interests in additive manufacturing of co-bonded CFRP/metallic joints.
 
 interests:
+  - Adhesive joints
   - Additive manufacturing
-  - Metallic joints
+  - Composite materials
 
 education:
   courses:
+    - course: PhD in Mechanical Engineering
+      institution: University of Parma
+      year: 2025
     - course: MSc in Mechanical Engineering
       institution: University of Bologna
       year: 2020
-    - course: BSc in Mechanical Engineering
-      institution: University of Bologna
-      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
