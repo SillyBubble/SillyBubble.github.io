@@ -13,5 +13,5 @@ publishDate: '2026-01-23T09:16:34.819686Z'
 publication_types:
 - article-journal
 publication: '*Theoretical and Applied Fracture Mechanics*'
-doi: 10.1016/j.tafmec.2024.104778
+doi: doi.org/10.1016/j.tafmec.2025.105400
 ---
