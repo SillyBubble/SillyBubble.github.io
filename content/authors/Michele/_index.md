@@ -18,7 +18,7 @@ role: Postdoc Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Parma
+  - name: Delft University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
