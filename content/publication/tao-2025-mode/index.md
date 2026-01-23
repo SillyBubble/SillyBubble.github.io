@@ -3,11 +3,12 @@ title: Mode I toughening of bio-based epoxy adhesive through 3D-printed biomimet
   reinforcements
 authors:
 - Ran
-- Zhiyuan Xu
-- Sofia Teixeira de Freitas
+- Zhiyuan
+- Sofia
 date: '2025-01-01'
 publishDate: '2026-01-22T14:03:43.440071Z'
 publication_types:
 - article-journal
 publication: '*Composites Part B: Engineering*'
+doi: https://doi.org/10.1016/j.compositesb.2025.113313
 ---
