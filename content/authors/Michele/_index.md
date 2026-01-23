@@ -70,4 +70,6 @@ user_groups:
   - Postdoc Researcher
 ---
 
-Michele was a PhD candidate co-supervised by Sofia, working on *Fracture Resistance of CFRP Co-Bonded Joints with Additively Manufactured Metallic Substrates: Effect of Surface Pre-Treatment and Additive Manufacturing Parameters*.
+Michele Gulino is a Postdoctoral Researcher at TU Delft. His research focuses on toughening strategies for bi-material adhesively bonded joints, with particular emphasis on the use of structured interfaces to enhance joint performance.
+
+During his PhD, Michele investigated the role of surface morphology in adhesively bonded joints with Laser Powder Bed Fused (LPBF) metal substrates. His work provided a detailed mechanistic interpretation of how the intrinsic LPBF surface topography contributes to toughening metal-composite joints, without relying on conventional surface treatments.
