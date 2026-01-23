@@ -3,11 +3,11 @@ title: 'Mode I fracture toughness of co-bonded metal-composite joints with addit
   manufactured titanium: Influence of printing parameters'
 authors:
 - Michele 
-- Rosemere de Araujo Alves Lima
+- Rose
 - Fabrizio Moroni
 - Francesco Musiari
 - Alessandro Pirondi
-- Sofia Teixeira de Freitas
+- Sofia
 date: '2026-01-01'
 publishDate: '2026-01-23T09:16:34.819686Z'
 publication_types:
