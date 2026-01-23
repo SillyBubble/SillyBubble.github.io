@@ -1,8 +1,8 @@
 ---
-title: 'Mode I fracture toughness of co-bonded metal--composite joints with additively
+title: 'Mode I fracture toughness of co-bonded metal-composite joints with additively
   manufactured titanium: Influence of printing parameters'
 authors:
-- Michele Gulino
+- Michele 
 - Rosemere de Araujo Alves Lima
 - Fabrizio Moroni
 - Francesco Musiari
