@@ -2,8 +2,8 @@
 title: 'Designing for toughness: How substrate stiffness controls crack path and effective
   engagement of toughening layers in adhesively bonded CFRP joints'
 authors:
-- RAA Lima
-- S Teixeira de Freitas
+- Rose
+- Sofia
 date: '2026-01-01'
 publishDate: '2026-01-26T09:23:48.388071Z'
 publication_types:
