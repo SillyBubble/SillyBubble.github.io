@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc (Alumni)
+  - Alumni - Master #MSc (Alumni)
 ---
 
 Miriam was a MSc student co-supervised by Sofia, working on *Adhesion performance on carbon fibre reinforced poly-phenylene sulphide depending on surface treatments*.
