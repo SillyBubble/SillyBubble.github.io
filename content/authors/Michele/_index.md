@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests in additive manufacturing of co-bonded CFRP/metallic joints.
+bio: My research topic is fracture mechanics of metal/composite joints.
 
 interests:
   - Adhesive joints
