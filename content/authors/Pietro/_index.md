@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MsC Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research topic is fracture mechanics bonded joints with silicon carbide adherends.
+bio: My research topic is fracture mechanics of bonded joints with silicon carbide adherends.
 
 interests:
   - Surface Treatment
@@ -62,4 +62,4 @@ user_groups:
   - Master Student
 ---
 
-Pietro is a MSc student supervised by Sofia ad Saullo G.P. Castro, investigating and comparing the optimal surface treatments for silicon carbide to improve bond strength in multi-layer armour applications.
+Pietro is a MSc student supervised by Sofia and Saullo G.P. Castro, investigating and comparing the optimal surface treatments for silicon carbide to improve bond strength in multi-layer armour applications.
