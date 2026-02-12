@@ -53,7 +53,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tiago.moacho.rodrigues@tecnico.ulisboa.pt'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
