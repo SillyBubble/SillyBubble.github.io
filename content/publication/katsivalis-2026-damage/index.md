@@ -3,10 +3,10 @@ title: Damage mechanisms of adhesively bonded joints of thin tow-based discontin
   composites
 authors:
 - Ioannis Katsivalis
-- Rosemere de Araujo Alves Lima
+- Rose
 - Florence Moreau
 - Leif E Asp
-- S Teixeira de Freitas
+- Sofia
 date: '2026-01-01'
 publishDate: '2026-02-12T12:29:19.388930Z'
 publication_types:
