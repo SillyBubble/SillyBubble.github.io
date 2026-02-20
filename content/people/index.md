@@ -60,6 +60,8 @@ sections:
 
         - Luis Pereira, *3D printed microstructures for reinforcing biobased resins*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
 
+        - João Diniz, *Tow-Based Discontinuous Composites for Toughening Adhesively Bonded Composite Joints*, Aerospace Engineering, 2024
+
         - Nkosinathi Peter, *3D printed meta materials for sandwich cores of biobased materials*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2024
 
         - Martino Giobbio, *Repair Methods for CFRP Aircraft Structures with Functional inserts*, Aerospace Engineering, TU Delft-Airbus, 2023
