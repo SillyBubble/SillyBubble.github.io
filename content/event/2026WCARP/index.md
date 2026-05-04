@@ -4,16 +4,16 @@ title: World Congress on Adhesion and Related Phenomena - WCARP
 event: Conference
 event_url: 
 
-location: Oslo, Norway
+location: Rio de Janeiro, Brasil
 
 
-summary: 'Special Session - Advanced Composite Materials and Structures: Multifunctional Design, Damage Diagnostics, Testing, and Modeling'
-abstract: 'We welcome **experimental and computational studies** addressing concepts, methods, and applications related to **Multifunctional design approaches** and **Diagnostics and structural health monitoring**!'
+#summary: ''
+abstract: 'This prestigious four-yearly event brings together the international adhesion community and is organized in collaboration with the global network of adhesion societies, continuing a tradition that began in 1998 – Germany. WCARP is the principal global forum for researchers, manufacturers, and industrial users to share advances in adhesion science, adhesive technology, and bonded structures.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-21T09:00:00Z'
-date_end: '2026-06-25T18:30:00Z'
+date: '2026-09-08T09:00:00Z'
+date_end: '2026-09-11T18:30:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -59,11 +59,9 @@ Further event details, including page elements such as image galleries, can be a
 
 **Organized by:**
 
-- Dr. Xi Li - Department of Aerospace Science and Technology, Politecnico di Milano (Italy)
+- Dr. Silvio de Barros
 
-- Dr. Ioannis Kastivalis - Department of Architecture & Civil Engineering, University of Bath (UK)
-
-- [Dr. Rosemere de Araujo Alves Lima](/author/rosemere-de-araujo-alves-lima/) - IDMEC - Instituto Superior Técnico, Lisboa (Portugal)
+- Dr. Mariana Banea
 
 We are looking for high-impact contributions showcasing innovations that bring **composites closer to real-world, carbon-neutral applications**.
 
