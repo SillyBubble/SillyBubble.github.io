@@ -38,10 +38,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:Z.Xu-8@tudelft.nl'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'luis.g.goncalves@tecnico.ulisboa.pt'
 #   - icon: linkedin
 #     icon_pack: fab
 #     link: https://www.linkedin.com/in/sofia-teixeira-de-freitas-9277941b/?originalSubdomain=nl
