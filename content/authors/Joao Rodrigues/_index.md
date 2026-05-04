@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joao Rodrigues
+title: Joao Rodrigues da Silva Nunes Cipriano
 
 # Full name (for SEO)
 first_name: Joao
@@ -67,4 +67,4 @@ user_groups:
   - Master Student
 ---
 
-Guilherme was a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.
+João is a MSc student of Aerospace Engineering supervised by professor Sofia and professor Fátima, working on Sustainable 3D printed cores/films to upgrade biobased materials for aerospace structures
