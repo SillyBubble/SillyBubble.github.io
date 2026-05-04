@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Joao Rodrigues
+title: Gustavo Lopes
 
 # Full name (for SEO)
-first_name: Joao
-last_name: Rodrigues da Silva Nunes Cipriano
+first_name: Gustavo
+last_name: Lopes
 
 # Username (this should match the folder name)
 authors:
-  - Joao Rodrigues
+  - Gustavo Lopes
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,18 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: João is a MSc student of Aerospace Engineering supervised by professor Sofia and professor Fátima, working on Sustainable 3D printed cores/films to upgrade biobased materials for aerospace structures
+bio: Gustavo is a MSc student supervised by Sofia, working on sustainable 3D printed cores to upgrade biobased materials for aerospace structures.
 
 interests:
   - Composite Materials
-  - Additive Manufacturing
-  - Material Effect
+  - Fracture Mechanics
+  - 3D printing
 
 education:
   courses:
     - course: BSc in Mechanical Engineering
       institution: Delft University of Technology
-      year: 2025
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
