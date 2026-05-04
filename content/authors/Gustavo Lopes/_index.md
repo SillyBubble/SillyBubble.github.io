@@ -67,4 +67,4 @@ user_groups:
   - Master Student
 ---
 
-Guilherme was a MSc student supervised by Sofia in 3D printing and biobased sandwich structures.
+Gustavo is a MSc student supervised by Sofia, working on sustainable 3D printed cores to upgrade biobased materials for aerospace structures.
