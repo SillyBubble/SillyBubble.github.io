@@ -63,13 +63,12 @@ Further event details, including page elements such as image galleries, can be a
 
 - Dr. Mariana Banea
 
-We are looking for high-impact contributions showcasing innovations that bring **composites closer to real-world, carbon-neutral applications**.
+WCARP-VIII will cover the full breadth of adhesion-related phenomena, including:
 
-
-We welcome **experimental and computational studies** addressing concepts, methods, and applications related to (but not limited to):
-
-- **Multifunctional design approaches**: composite materials and structures with integrated sensing, healing, energy storage, adaptive, and shape-memory capabilities.
-
-- **Diagnostics and structural health monitoring**: in-situ methods, non-destructive evaluation, and data-driven damage detection.
-
-If your work aligns with these topics, we'd love to see your contribution in our session! See you at the upcoming ECCM22 - 21-25 June 2026, Oslo, Norway!
+    Fundamental Adhesion Mechanisms & Interface Science
+    Surface Treatments & Advanced Modification Methods
+    Adhesive Formulation & Synthesis
+    Design & Optimization of Adhesively Bonded Joints
+    Characterization & Testing Techniques
+    Industrial Applications & Real-World Cases
+    Sustainability & Environmental Impact
