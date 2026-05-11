@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently developing his Master Thesis supervised by Prof. Sofia Freitas, Luís Pereira is a Aerospace Engineering student currently researching the reinforcement of biobased materials through bio inspired 3D-printed structures.
+bio: Currently developing his Master Thesis supervised by prof. Sofia Freitas and prof. Aurélio Araújo, Luís Pereira is a Aerospace Engineering student currently researching the reinforcement of biobased materials through bio inspired 3D-printed structures.
 
 interests:
   - Adhesive joints

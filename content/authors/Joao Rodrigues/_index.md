@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: João is a MSc student of Aerospace Engineering supervised by professor Sofia and professor Fátima, working on Sustainable 3D printed cores/films to upgrade biobased materials for aerospace structures
+bio: João is a MSc student of Aerospace Engineering supervised by professor Sofia Teixeira de Freitas and professor Fátima Vaz, working on Sustainable 3D printed cores/films to upgrade biobased materials for aerospace structures
 
 interests:
   - Composite Materials

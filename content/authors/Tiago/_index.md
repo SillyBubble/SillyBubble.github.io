@@ -64,4 +64,4 @@ user_groups:
   - Master Student
 ---
 
-Tiago is a MSc student supervised by Sofia, working on *Crack Propagation in Adhesively Bonded Composite Joints: Influence of Laminate Layup*.
+Tiago is a MSc student supervised by Sofia Teixeira de Freitas and Aurélio Araújo, working on *Crack Propagation in Adhesively Bonded Composite Joints: Influence of Laminate Layup*.

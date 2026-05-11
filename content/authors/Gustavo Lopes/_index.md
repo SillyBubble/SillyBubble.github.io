@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gustavo is a MSc student supervised by Sofia, working on sustainable 3D printed cores to upgrade biobased materials for aerospace structures.
+bio: Gustavo is a MSc student supervised by Sofia Teixeira de Freitas and Fatima Vaz, working on sustainable 3D printed cores to upgrade biobased materials for aerospace structures.
 
 interests:
   - Composite Materials
