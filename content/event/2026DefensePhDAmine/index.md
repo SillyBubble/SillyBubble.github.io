@@ -1,10 +1,10 @@
 ---
-title: "Congratulations to Clara and Guilherme on completing their Master's"
+title: "Congratulations to Amine on defending his PhD"
 
 event: Defense
 event_url: 
 
-location: Lisbon, Portugal
+location: Lisben, Portugal
 
 
 summary: 'Congratulations to both graduates for their hard work, dedication, and contributions to the group. We are proud to have them in the Interact Research Team and wish them every success in their future professional path.'
