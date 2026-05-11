@@ -66,4 +66,4 @@ user_groups:
   - Master Student
 ---
 
-Pedro is a MSc student supervised by Sofia Teixeira de Freitas and Aurélio Araújo, working on numerical investigations of the composite layup in the adhesive joints, *Predicting damage in composite bonded joints for aircraft applications: simulating crack paths*.
+Pedro is a MSc student supervised by Sofia Teixeira de Freitas, working on numerical investigations of the composite layup in the adhesive joints, *Predicting damage in composite bonded joints for aircraft applications: simulating crack paths*.
