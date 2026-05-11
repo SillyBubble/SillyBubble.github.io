@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Alumni PhD
 ---
 
 Mohamed Amine Tazi is a PhD candidate at the CESI LINEACT Laboratory in Aix-en-Provence, France. He holds an engineering degree from ISAE-SUPMECA, the Higher Institute of Mechanics of Paris. Since March 2023, he has been conducting research on a PhD project entitled "Reinforcement of Steel Structures with Adhesively Bonded Biobased Composite Patches", under the supervision of Prof. Sofia Teixeira de Freitas, Prof. Silvio de Barros, and Prof. Pascal Casari. His work aims to enhance both the environmental sustainability and mechanical performance of bonded composite reinforcements by incorporating flax fibers and biobased resins and adhesives. He also investigates the long-term durability of these materials under various environmental conditions. 

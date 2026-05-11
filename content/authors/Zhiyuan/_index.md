@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Alumni PhD
 ---
 
 Zhiyuan is a PhD candidate at TU Delft supervised by Sofia. His PhD topic focuses on toughening bio-based epoxy adhesive using 3D printed bio-inspired designs.
