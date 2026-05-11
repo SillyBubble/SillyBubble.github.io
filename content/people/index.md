@@ -38,6 +38,10 @@ sections:
     content:
       title: Alumni PhD
       text: >
+        - Zhiyuan Xu
+
+        - Mohamed Amine TAZI [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=Eo0MZ-QAAAAJ&hl=en&oi=ao)
+
         - Mostafa Moazzami [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=tDx21fwAAAAJ&hl=en), *Cyclic aging of bi-material adhesively bonded joints*, Iran University of Science and Technology, Iran
 
         - Xi Li [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/xi-li-756443195/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?hl=en&user=UVfyoRIAAAAJ), *Unfolding the early fatigue damage accumulation for cross ply laminates*, Aerospace Engineering, TU Delft, October 2022
