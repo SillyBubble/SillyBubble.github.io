@@ -30,12 +30,12 @@ sections:
       text: >
         
         - Ran Tao [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=yJYiGtsAAAAJ&hl=en&oi=sra), *Bio-mimetic toughening of adehsively bonded joints*, Aerospace Engineering, TU Delft, 2023-2026
-        
+
         - Charline van Innis [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/charline-van-innis-30732b1a2/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=XOBfQsgAAAAJ&hl=en&oi=ao), *Fracture characterization of metal-tothermoplastic interfaces*, Aerospace Engineering, TU Delft, 2024-2025
 
         - Mohamed Saleh [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/mohamed-nasr-saleh-a0988424/details/education/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?hl=en&user=OFanty4AAAAJ), *Fracture mechanisms of bi-material bonded joints with thick bondlines under maritime environmental conditions*, Aerospace Engineering, TU Delft, 2018-2021
 
-        - Wandong Wang [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/wandong-wang-785346a7/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?user=ED3slLIAAAAJ&hl=en), *Fatigue and durability of Titanium skinsto-CFRP-stiffeners bonded joints for application in aircraft leading edges*,Aerospace Engineering, TU Delft, 2017-2018
+        - Wandong Wang [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/wandong-wang-785346a7/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?user=ED3slLIAAAAJ&hl=en), *Fatigue and durability of Titanium skins to-CFRP-stiffeners bonded joints for application in aircraft leading edges*,Aerospace Engineering, TU Delft, 2017-2018
 
   - block: markdown
     content:
