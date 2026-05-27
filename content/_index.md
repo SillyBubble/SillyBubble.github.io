@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Amine's PhD defence
-        align: left
+        align: right
         background:
           image: 
             filename: Amine_defence.jpg
