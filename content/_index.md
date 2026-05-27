@@ -46,7 +46,9 @@ sections:
           color: '#000000'
       - title: ECCM21
         content: |
-          21st European Conference on<br> Composite Materials for Academia and Industry, Nantes
+          21st European Conference on<br> Composite Materials for<br>
+          Academia and Industry,<br>
+          Nantes
         align: left
         background:
           image:
