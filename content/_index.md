@@ -16,7 +16,7 @@ sections:
             filters:
               brightness: 0.8
             size: contain
-            position: right
+            position: left
           color: '#000000'
       - title: Special Session for ECCM22
         content: 'Call for Contributions - Advanced Composite Materials and Structures: Multifunctional Design, Damage Diagnostics, Testing, and Modeling'
