@@ -11,8 +11,8 @@ sections:
       - title: Amine's PhD defence
         align: left
         background:
-          image: Amine_defence.jpg
-            filename: 
+          image: 
+            filename: Amine_defence.jpg
             filters:
               brightness: 0.8
             size: contain
