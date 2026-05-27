@@ -7,7 +7,7 @@ event_url:
 location: Lisben, Portugal
 
 
-summary: 'Congratulations to both graduates for their hard work, dedication, and contributions to the group. We are proud to have them in the Interact Research Team and wish them every success in their future professional path.'
+summary: 'We are proud to share the successful PhD defence of Mohamed Amine TAZI! '
 abstract: ''
 
 # Talk start and end times.
@@ -57,11 +57,5 @@ projects:
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 
-Last week, we had the joy of attending the Master’s thesis presentations of two members of the Interact Research Lab. It was a truly special milestone for them and for our group.
-Clara Onofre successfully completed her Master’s in Mechanical Engineering with the thesis "**𝟯𝗗 𝗣𝗿𝗶𝗻𝘁𝗲𝗱 𝗧𝗣𝗨 𝗦𝗸𝗲𝗹𝗲𝘁𝗼𝗻𝘀 𝘁𝗼 𝗨𝗽𝗴𝗿𝗮𝗱𝗲 𝗕𝗶𝗼-𝗕𝗮𝘀𝗲𝗱 𝗣𝗨 𝗥𝗲𝘀𝗶𝗻𝘀**".
-José Guilherme Vilas Boas Teixeira successfully completed his Master’s in Aerospace Engineering with the thesis "**𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝟯𝗗 𝗣𝗿𝗶𝗻𝘁𝗲𝗱 𝗧𝗣𝗨 𝗖𝗼𝗿𝗲𝘀/𝗙𝗶𝗹𝗺𝘀 𝘁𝗼 𝗨𝗽𝗴𝗿𝗮𝗱𝗲 𝗕𝗶𝗼𝗯𝗮𝘀𝗲𝗱 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀 𝗳𝗼𝗿 𝗔𝗲𝗿𝗼𝘀𝗽𝗮𝗰𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀**".
-Both projects were developed at Instituto Superior Técnico under the supervision of Prof. Sofia Teixeira de Freitas and Prof. Fátima Vaz.
-
-A warm acknowledgment to the evaluation committee: Prof. Virginia Infante, Prof. Miguel Tavares da Silva, Prof. Fernando Lau, and Prof. Manuel Sardinha, whose insights and engagement enriched the discussions.
-
-Congratulations to both graduates for their hard work, dedication, and contributions to the group. We are proud to have them in the Interact Research Team and wish them every success in their future professional path.
+Amine’s thesis, titled “Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects”, delivers significant contributions to structural engineering, particularly in the development of sustainable and high-performance repairing techniques for steel structures.
+Throughout his journey, it has been a real pleasure to have Amine on our team. We had the opportunity to work closely with him both at TU Delft | Aerospace Engineering and at IDMEC in Instituto Superior Técnico, and we truly appreciated his dedication, scientific rigour, and collaborative spirit.
