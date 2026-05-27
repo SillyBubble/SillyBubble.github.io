@@ -19,14 +19,14 @@ sections:
             position: left
           color: '#000000'
       - title: Zhiyuan's PhD defence
-        align: right
+        align: left
         background:
           image: 
             filename: Zhiyuan_defence2.jpg
             filters:
               brightness: 0.8
             size: contain
-            position: left
+            position: right
           color: '#000000'
       - title: Special Session for ECCM22
         content: 'Call for Contributions - Advanced Composite Materials and Structures: Multifunctional Design, Damage Diagnostics, Testing, and Modeling'
