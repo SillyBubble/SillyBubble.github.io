@@ -10,8 +10,8 @@ sections:
       slides:
       - title: Amine's PhD defence
         content: |
-          Flexural Strengthening of Steel Structures with Externally Adhesively
-           Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects
+          Flexural Strengthening of Steel Structures with Externally Adhesively<br>
+          Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects
         align: right
         background:
           image: 
