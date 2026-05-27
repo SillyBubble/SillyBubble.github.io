@@ -22,7 +22,7 @@ sections:
         align: right
         background:
           image: 
-            filename: Zhiyuan_defence1.jpg
+            filename: Zhiyuan_defence2.jpg
             filters:
               brightness: 0.8
             size: contain
