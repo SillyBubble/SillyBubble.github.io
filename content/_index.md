@@ -12,7 +12,7 @@ sections:
         align: left
         background:
           image: 
-            filename: Amine_defence.jpg
+            filename: 
             filters:
               brightness: 0.8
             size: contain
