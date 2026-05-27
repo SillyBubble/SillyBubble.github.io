@@ -57,5 +57,4 @@ projects:
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 
-Amine’s thesis, titled “Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects”, delivers significant contributions to structural engineering, particularly in the development of sustainable and high-performance repairing techniques for steel structures.
-Throughout his journey, it has been a real pleasure to have Amine on our team. We had the opportunity to work closely with him both at TU Delft | Aerospace Engineering and at IDMEC in Instituto Superior Técnico, and we truly appreciated his dedication, scientific rigour, and collaborative spirit.
+We are happy to announce that Zhiyuan succesfully defended his PhD thesis, entitled "3D-Printed Bio Inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts"
