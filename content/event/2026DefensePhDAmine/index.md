@@ -4,7 +4,7 @@ title: "Congratulations to Amine on defending his PhD"
 event: Defense
 event_url: 
 
-location: Lisben, Portugal
+location: Paris, France
 
 
 summary: 'We are proud to share the successful PhD defence of Mohamed Amine TAZI! '
