@@ -9,6 +9,7 @@ sections:
     content:
       slides:
       - title: Amine's PhD defence
+        content: 'Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects'
         align: right
         background:
           image: 
@@ -19,6 +20,7 @@ sections:
             position: left
           color: '#000000'
       - title: Zhiyuan's PhD defence
+        content: '3D-Printed Bio Inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts'
         align: left
         background:
           image: 
