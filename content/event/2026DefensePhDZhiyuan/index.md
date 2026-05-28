@@ -57,4 +57,4 @@ projects:
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
 
-We are happy to announce that Zhiyuan succesfully defended his PhD thesis, entitled "3D-Printed Bio Inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts"
+We are happy to announce that Zhiyuan succesfully defended his PhD thesis, entitled "3D-Printed Bio Inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts". The thesis is available at https://doi.org/10.4233/uuid:5b2653ec-459a-4d98-bd2e-1062261744af
