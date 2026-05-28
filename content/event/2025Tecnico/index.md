@@ -4,7 +4,7 @@ title: Advancements in Circular Design of Adhesively Bonded Joints & Toughening 
 event: Workshop
 event_url: flyer.pdf
 
-location: Tecnico Lisboa, Lisben
+location: Tecnico Lisboa, Lisbon
 address:
   street: Av. Rovisco Pais 1
   city: Lisbon
