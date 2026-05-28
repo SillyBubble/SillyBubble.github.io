@@ -10,9 +10,9 @@ sections:
       slides:
       - title: Amine's PhD defence
         content: |
-          Flexural Strengthening of Steel Structures with Externally Adhesively<br>
-          Bonded Carbon and Flax Composite Patches: Mechanical Performance<br>
-          and Water Ageing Effects
+          Flexural Strengthening of Steel Structures with Externally<br>
+          Adhesively Bonded Carbon and Flax Composite Patches:<br>
+          Mechanical Performance and Water Ageing Effects
         align: right
         background:
           image: 
@@ -23,7 +23,9 @@ sections:
             position: left
           color: '#000000'
       - title: Zhiyuan's PhD defence
-        content: '3D-Printed Bio Inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts'
+        content: |
+          3D-Printed Bio Inspired Overlapping Curl Structure:<br>
+          Toughening Epoxy via Sacrificial Bonds and Hidden Lenghts
         align: left
         background:
           image: 
@@ -58,8 +60,14 @@ sections:
             size: contain
             position: right
           color: '#000000'
-      - title: Lisboa Workshop 2025
-        content: Advancements in Circular Design of Adhesively Bonded Joints & Toughening Strategies, Lisboa
+      - title: |
+          Lisboa Workshop<br>
+          2025
+        content: |
+          Advancements in Circular Design of<br>
+          Adhesively Bonded Joints &<br>
+          Toughening Strategies,<br>
+          Lisboa
         align: left
         background:
           image:
@@ -70,7 +78,10 @@ sections:
             position: right
           color: '#000000'
       - title: AB2025
-        content: 8th International Conference on Adhesive Bonding, Porto
+        content: |
+          8th International Conference<br>
+          on Adhesive Bonding,<br>
+          Porto
         align: left
         background:
           image:
@@ -81,7 +92,10 @@ sections:
             position: right
           color: '#000'
       - title: AB2025
-        content: 8th International Conference on Adhesive Bonding, Porto
+        content: |
+          8th International Conference<br>
+          on Adhesive Bonding,<br>
+          Porto
         align: left
         background:
           image:
