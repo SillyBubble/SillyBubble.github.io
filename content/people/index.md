@@ -61,6 +61,8 @@ sections:
     content:
       title: Alumni MSc
       text: >
+        - Pietro Zanini, *Surface Preparation of Silicon Carbide for Adhesively Bonded Multi-Layer Armour Systems*, Aerospace Engineering, TU Delft, 2026 
+
         - Clara Onofre, *3D printed TPU Skeletons to Upgrade Bio-Based PU Resins*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
 
         - José Guilherme Vilas Boas Teixeira, *Sustainable 3D Printed TPU Cores/Films to Upgrade Biobased Materials for Aerospace Structures*, Aerospace Engineering, Instituto Superior Tecnico, Portugal, 2025
