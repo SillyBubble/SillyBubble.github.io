@@ -13,7 +13,7 @@ abstract: ''
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-03-18T09:00:00Z'
-date_end: '2026-03-18T14:00:00Z'
+# date_end: '2026-03-18T14:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
