@@ -8,6 +8,21 @@ sections:
   - block: slider
     content:
       slides:
+      - title: |
+          Interested in testing and manufacturing methodologies<br>
+          of adhesively bonded joints?
+        content: |
+          Check out Marcello Calì's youtube channel:<br>
+          https://www.youtube.com/watch?v=lf4-sQZT8CM&t=13s
+        align: right
+        background:
+          image: 
+            filename: youtube.jpg
+            filters:
+              brightness: 0.8
+            size: contain
+            position: left
+          color: '#000000'
       - title: Amine's PhD defence
         content: |
           Flexural Strengthening of Steel Structures with Externally<br>
