@@ -9,8 +9,8 @@ sections:
     content:
       slides:
       - title: |
-          Interested in testing and manufacturing methodologies<br>
-          of adhesively bonded joints?
+          Interested in testing and manufacturing<br>
+          methodologies for adhesively bonded joints?
         content: |
           Check out Marcello Calì's youtube channel:<br>
           https://www.youtube.com/watch?v=lf4-sQZT8CM&t=13s
