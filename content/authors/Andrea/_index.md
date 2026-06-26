@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Candidate
+role: Visiting PhD Candidate (University of Trento)
 
 # Organizations/Affiliations
 organizations:
