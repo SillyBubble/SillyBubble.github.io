@@ -3,10 +3,10 @@ title: 'Ancient adhesives revisited: Unlocking potential for sustainable and ren
   modern applications'
 authors:
 - A. Aleo
-- R. de Araujo Alves Lima
+- Rose
 - D. Molendijk - van den Hengst
 - R. W. A. Hendrikx
-- S. Teixeira de Freitas
+- Sofia
 - G. H. J. Langejans
 - A. J. Böttger
 date: '2026-01-01'
