@@ -43,7 +43,7 @@ sections:
       text: >
         - Zhiyuan Xu [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=lO9-Tp8AAAAJ&hl=en), *3D-printed Bio-inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lengths*, TU Delft, The Netherlands
 
-        - Mohamed Amine TAZI [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=Eo0MZ-QAAAAJ&hl=en&oi=ao), *Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects*, École Doctorale Sciences des Métiers de l'Ingénieur, France. Supervisors: Silvio de Barros, Sofia Teixeira de Freitas
+        - Mohamed Amine TAZI [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=Eo0MZ-QAAAAJ&hl=en&oi=ao), *Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects*, École Doctorale Sciences des Métiers de l'Ingénieur, France. **Supervisors** Silvio de Barros, Sofia Teixeira de Freitas
 
         - Mostafa Moazzami [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=tDx21fwAAAAJ&hl=en), *Cyclic aging of bi-material adhesively bonded joints*, Iran University of Science and Technology, Iran
 
