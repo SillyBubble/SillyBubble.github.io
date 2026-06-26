@@ -41,21 +41,21 @@ sections:
     content:
       title: Alumni PhD
       text: >
-        - Zhiyuan Xu [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=lO9-Tp8AAAAJ&hl=en), *3D-printed Bio-inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lengths*, TU Delft, The Netherlands
+        - Zhiyuan Xu [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=lO9-Tp8AAAAJ&hl=en), *3D-printed Bio-inspired Overlapping Curl Structure: Toughening Epoxy via Sacrificial Bonds and Hidden Lengths*, TU Delft, The Netherlands, March 2026. **Supervisors:** Sofia Teixeira de Freitas, Kunal Masaia
 
-        - Mohamed Amine TAZI [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=Eo0MZ-QAAAAJ&hl=en&oi=ao), *Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects*, École Doctorale Sciences des Métiers de l'Ingénieur, France. **Supervisors** Silvio de Barros, Sofia Teixeira de Freitas
+        - Mohamed Amine TAZI [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=Eo0MZ-QAAAAJ&hl=en&oi=ao), *Flexural Strengthening of Steel Structures with Externally Adhesively Bonded Carbon and Flax Composite Patches: Mechanical Performance and Water Ageing Effects*, École Doctorale Sciences des Métiers de l'Ingénieur, France, April 2026. **Supervisors:** Silvio de Barros, Sofia Teixeira de Freitas
 
-        - Mostafa Moazzami [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=tDx21fwAAAAJ&hl=en), *Cyclic aging of bi-material adhesively bonded joints*, Iran University of Science and Technology, Iran
+        - Mostafa Moazzami [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=tDx21fwAAAAJ&hl=en), *Cyclic aging of bi-material adhesively bonded joints*, Iran University of Science and Technology, Iran. **Supervisor:** Majid R Ayatollahi
 
-        - Xi Li [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/xi-li-756443195/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?hl=en&user=UVfyoRIAAAAJ), *Unfolding the early fatigue damage accumulation for cross ply laminates*, Aerospace Engineering, TU Delft, October 2022
+        - Xi Li [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/xi-li-756443195/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?hl=en&user=UVfyoRIAAAAJ), *Unfolding the early fatigue damage accumulation for cross ply laminates*, Aerospace Engineering, TU Delft, October 2022. **Supervisors:** Dimitrios Zarouchas, Sofia Teixeira de Freitas
 
-        - Márcio Arouche [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/marcio-moreira-arouche/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?user=BJOPAzQAAAAJ&hl=en), *Fracture mechanics of bi-material bonded joints: mixed mode under maritime conditions*, CEFET, Brazil, July 2021
+        - Márcio Arouche [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/marcio-moreira-arouche/) [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.nl/citations?user=BJOPAzQAAAAJ&hl=en), *Fracture mechanics of bi-material bonded joints: mixed mode under maritime conditions*, CEFET, Brazil, July 2021. **Supervisor:* Silvio de Barros
 
-        - Romina Lopes Fernandes [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/rominafernandes/), *Understanding of crack growth in bi-material bonded joints with thick bondlines*, Aerospace Engineering, TU Delft, July 2021
+        - Romina Lopes Fernandes [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/rominafernandes/), *Understanding of crack growth in bi-material bonded joints with thick bondlines*, Aerospace Engineering, TU Delft, July 2021. **Supervisors:** Sofia Teixeira de Freitas, Hans Poulis
 
-        - Eirini Tsiangou [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/eirini-tsiangou/?originalSubdomain=nl), *Thermoset-to-thermoplastic Ultrasonic Welding*, Aerospace Engineering, TU Delft, April 2021
+        - Eirini Tsiangou [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/eirini-tsiangou/?originalSubdomain=nl), *Thermoset-to-thermoplastic Ultrasonic Welding*, Aerospace Engineering, TU Delft, April 2021. **Supervisor:** Irene Fernandes-Villegas
 
-        - Julian Kupski [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/julian-kupski-a311a5b8/?originalSubdomain=ch), *Novel adherend laminate designs for composite bonded joints*, Aerospace Engineering, TU Delft, November 2020
+        - Julian Kupski [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/julian-kupski-a311a5b8/?originalSubdomain=ch), *Novel adherend laminate designs for composite bonded joints*, Aerospace Engineering, TU Delft, November 2020. **Supervisors:** Sofia Teixeira de Freitas, Dimitrios Zarouchas
 
   - block: markdown
     content:
