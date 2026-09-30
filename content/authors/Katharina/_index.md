@@ -66,4 +66,4 @@ user_groups:
   - PhD Candidate
 ---
 
-Katharina is a PhD candidate supervised by Sofia, working on *Fracture process zone of adhesively bonded joints - characterization and identification*.
+Katharina is a PhD candidate co-supervised by Sofia and John-Alan Pascoe, working on *Fracture process zone of adhesively bonded joints - characterization and identification*.
