@@ -21,7 +21,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Letizia Rosseti is a PhD candidate from University of Genova, Italy. She graduated with a Master’s Degree in Physics, curriculum Applied Astrophisics, in University of Genova in 2024 with a thesis collaborating with INAF (National Institute of Astrophisics). Her current research focuses on the application of machine learning to mechanical design, with particular emphasis on design optimization and monitoring for prosthetic devices. Her work aims to develop data-driven approaches to improve the performance, reliability, and design of next-generation prostheses, under the supervision of Prof. Massimiliano Avalle and Prof. Mattia Frascio.
 
 interests:
   - Adhesive joints
@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: MSc in Physics
+      institution: University of Genova 
+      year: 2024
     - course: 
       institution: 
       year: 
