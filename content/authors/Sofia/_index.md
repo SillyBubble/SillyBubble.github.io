@@ -14,7 +14,7 @@ authors:
 superuser: True
 
 # Role/position
-role: Principal Investigator
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Professor
 ---
 
 **Sofia Teixeira de Freitas** is an Associate Professor at the Department of Mechanical Engineering, Instituto Superior Técnico, University of Lisbon, and holds a part-time position at the Faculty of Aerospace Engineering at Delft University of Technology. Her research focuses on the structural integrity of bonded interfaces and layered materials, aiming to create durable and sustainable load-bearing structures. 

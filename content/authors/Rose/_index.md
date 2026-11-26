@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Professor
 ---
 
 Rosemere de Araujo Alves Lima is a Marie Skłodowska-Curie Postdoctoral Fellow at IDMEC – Instituto Superior Técnico, University of Lisbon. She completed her PhD in Mechanical Engineering at Politecnico di Milano, co-supervised by Prof. Andrea Bernasconi and Prof. Michele Carboni, where she worked on the structural health monitoring (SHM) of adhesively bonded joints using optical and acoustic emission methods. Her doctoral research integrated experimental mechanics, signal processing, and the design of adhesively bonded composites.
