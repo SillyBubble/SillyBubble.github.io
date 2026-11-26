@@ -14,7 +14,7 @@ authors:
 superuser: True
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
