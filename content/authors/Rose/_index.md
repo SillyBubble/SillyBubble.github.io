@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Rosemere de Araujo Alves Lima
+title: Rosemere de Araujo Alves Limaaa
 
 # Full name (for SEO)
 first_name: Rosemere
-last_name: de Araujo Alves Lima
+last_name: de Araujo Alves Limaaa
 
 # Username (this should match the folder name)
 authors:
